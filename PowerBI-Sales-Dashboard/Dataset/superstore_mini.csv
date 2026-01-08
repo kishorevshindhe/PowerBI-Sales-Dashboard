@@ -1,0 +1,601 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-00001,2018-06-24,2018-06-27,Same Day,CUST-3341,Customer 3467,Consumer,United States,San Francisco,California,85992,West,PROD-00001,Office Supplies,Paper,Paper Model 190,22.78,4,0.2,7.66
+ORD-00002,2018-05-12,2018-05-19,Standard Class,CUST-1485,Customer 1907,Consumer,United States,Phoenix,Arizona,32320,West,PROD-00002,Technology,Copiers,Copiers Model 434,3109.0,3,0.0,1045.73
+ORD-00003,2018-05-06,2018-05-07,First Class,CUST-1803,Customer 1722,Consumer,United States,Allentown,Pennsylvania,88971,East,PROD-00003,Office Supplies,Paper,Paper Model 889,13.35,2,0.2,3.15
+ORD-00004,2018-05-06,2018-05-12,Second Class,CUST-2716,Customer 3692,Consumer,United States,San Diego,California,52145,West,PROD-00004,Office Supplies,Storage,Storage Model 904,38.22,1,0.0,9.47
+ORD-00005,2018-09-27,2018-10-01,First Class,CUST-2916,Customer 1817,Consumer,United States,Allentown,Pennsylvania,73688,East,PROD-00005,Furniture,Bookcases,Bookcases Model 787,176.49,1,0.0,32.17
+ORD-00006,2018-07-15,2018-07-18,Second Class,CUST-2758,Customer 253,Consumer,United States,Nashville,Tennessee,58581,South,PROD-00006,Technology,Accessories,Accessories Model 709,143.71,5,0.0,12.03
+ORD-00007,2018-04-22,2018-04-27,Second Class,CUST-2810,Customer 4228,Corporate,United States,Montgomery,Alabama,30754,South,PROD-00007,Office Supplies,Appliances,Appliances Model 474,200.36,2,0.0,32.11
+ORD-00008,2018-06-28,2018-07-01,Standard Class,CUST-3938,Customer 3520,Home Office,United States,Springfield,Massachusetts,79837,East,PROD-00008,Office Supplies,Appliances,Appliances Model 961,176.53,2,0.0,50.89
+ORD-00009,2018-06-06,2018-06-12,Standard Class,CUST-3292,Customer 1908,Home Office,United States,Atlanta,Georgia,17207,South,PROD-00009,Office Supplies,Storage,Storage Model 664,123.72,4,0.0,13.45
+ORD-00010,2018-02-19,2018-02-26,Standard Class,CUST-2444,Customer 1911,Corporate,United States,Las Vegas,Nevada,37920,West,PROD-00010,Technology,Machines,Machines Model 323,1068.07,2,0.0,375.96
+ORD-00011,2018-03-26,2018-03-29,Same Day,CUST-2953,Customer 2522,Consumer,United States,San Francisco,California,97739,West,PROD-00011,Furniture,Bookcases,Bookcases Model 736,956.79,5,0.0,235.77
+ORD-00012,2018-06-11,2018-06-13,Same Day,CUST-3864,Customer 3850,Corporate,United States,Rochester,New York,97081,East,PROD-00012,Technology,Machines,Machines Model 128,1622.12,3,0.0,342.4
+ORD-00013,2018-09-16,2018-09-20,First Class,CUST-3321,Customer 1059,Corporate,United States,Portland,Oregon,34016,West,PROD-00013,Office Supplies,Storage,Storage Model 120,118.57,3,0.0,33.48
+ORD-00014,2018-05-06,2018-05-13,Standard Class,CUST-2671,Customer 3539,Consumer,United States,Cleveland,Ohio,70522,Central,PROD-00014,Office Supplies,Appliances,Appliances Model 210,350.05,4,0.0,16.55
+ORD-00015,2018-04-18,2018-04-20,Same Day,CUST-2849,Customer 2323,Consumer,United States,Austin,Texas,84092,Central,PROD-00015,Furniture,Chairs,Chairs Model 714,112.74,1,0.1,10.58
+ORD-00016,2018-05-28,2018-06-01,Standard Class,CUST-1520,Customer 187,Corporate,United States,Jersey City,New Jersey,64068,East,PROD-00016,Office Supplies,Paper,Paper Model 997,15.56,2,0.1,3.12
+ORD-00017,2018-04-15,2018-04-19,Same Day,CUST-2152,Customer 949,Consumer,United States,Virginia Beach,Virginia,30102,East,PROD-00017,Office Supplies,Binders,Binders Model 357,23.72,2,0.1,3.66
+ORD-00018,2018-05-02,2018-05-07,Same Day,CUST-2397,Customer 2291,Consumer,United States,Seattle,Washington,11924,West,PROD-00018,Furniture,Tables,Tables Model 775,222.54,1,0.1,67.66
+ORD-00019,2018-05-20,2018-05-21,Second Class,CUST-3616,Customer 4360,Consumer,United States,Seattle,Washington,95015,West,PROD-00019,Office Supplies,Paper,Paper Model 488,24.18,3,0.0,7.8
+ORD-00020,2018-03-24,2018-03-29,Standard Class,CUST-3686,Customer 4618,Consumer,United States,Boston,Massachusetts,64333,East,PROD-00020,Technology,Copiers,Copiers Model 335,4304.63,5,0.1,1162.63
+ORD-00021,2018-07-20,2018-07-27,Standard Class,CUST-3207,Customer 4879,Consumer,United States,Reno,Nevada,94458,West,PROD-00021,Furniture,Tables,Tables Model 755,433.56,2,0.0,91.19
+ORD-00022,2018-03-16,2018-03-18,Same Day,CUST-1652,Customer 4631,Consumer,United States,Birmingham,Alabama,94196,South,PROD-00022,Technology,Phones,Phones Model 410,494.07,2,0.2,153.55
+ORD-00023,2018-03-12,2018-03-14,Standard Class,CUST-3224,Customer 210,Consumer,United States,Raleigh,North Carolina,56099,South,PROD-00023,Office Supplies,Binders,Binders Model 929,47.91,5,0.2,12.99
+ORD-00024,2018-06-03,2018-06-10,Same Day,CUST-2951,Customer 2094,Consumer,United States,Spokane,Washington,67346,West,PROD-00024,Office Supplies,Appliances,Appliances Model 728,140.6,2,0.2,39.5
+ORD-00025,2018-07-13,2018-07-15,Standard Class,CUST-3668,Customer 3539,Corporate,United States,Charlotte,North Carolina,85481,South,PROD-00025,Office Supplies,Binders,Binders Model 952,25.24,2,0.0,3.35
+ORD-00026,2018-06-01,2018-06-07,Second Class,CUST-1211,Customer 1564,Consumer,United States,Tacoma,Washington,60062,West,PROD-00026,Furniture,Furnishings,Furnishings Model 348,129.36,2,0.0,38.24
+ORD-00027,2018-05-13,2018-05-16,Standard Class,CUST-3495,Customer 26,Consumer,United States,Salem,Oregon,10306,West,PROD-00027,Furniture,Tables,Tables Model 601,1134.13,5,0.1,318.65
+ORD-00028,2018-05-02,2018-05-04,Second Class,CUST-1586,Customer 175,Consumer,United States,Allentown,Pennsylvania,98495,East,PROD-00028,Furniture,Chairs,Chairs Model 506,326.15,3,0.0,28.25
+ORD-00029,2018-04-23,2018-04-29,First Class,CUST-1167,Customer 1335,Home Office,United States,Grand Rapids,Michigan,79767,Central,PROD-00029,Furniture,Tables,Tables Model 258,968.98,4,0.0,169.77
+ORD-00030,2018-08-09,2018-08-12,Standard Class,CUST-3508,Customer 322,Consumer,United States,Raleigh,North Carolina,22207,South,PROD-00030,Office Supplies,Binders,Binders Model 315,52.6,4,0.0,8.46
+ORD-00031,2018-06-12,2018-06-15,Standard Class,CUST-3964,Customer 4151,Consumer,United States,Cleveland,Ohio,49426,Central,PROD-00031,Technology,Phones,Phones Model 939,683.98,2,0.0,99.49
+ORD-00032,2018-04-27,2018-04-30,Standard Class,CUST-2257,Customer 4048,Home Office,United States,Portland,Oregon,16336,West,PROD-00032,Technology,Machines,Machines Model 382,1158.31,2,0.1,121.82
+ORD-00033,2018-04-11,2018-04-15,Second Class,CUST-2206,Customer 3228,Corporate,United States,Naperville,Illinois,85166,Central,PROD-00033,Office Supplies,Paper,Paper Model 698,33.86,4,0.0,9.86
+ORD-00034,2018-07-03,2018-07-05,Standard Class,CUST-2739,Customer 1873,Consumer,United States,Philadelphia,Pennsylvania,27256,East,PROD-00034,Furniture,Chairs,Chairs Model 736,249.24,2,0.0,22.91
+ORD-00035,2018-08-07,2018-08-10,Standard Class,CUST-2053,Customer 2068,Corporate,United States,Miami,Florida,59817,South,PROD-00035,Office Supplies,Storage,Storage Model 101,119.28,4,0.1,9.04
+ORD-00036,2018-07-29,2018-08-05,Same Day,CUST-1714,Customer 333,Consumer,United States,Tacoma,Washington,43719,West,PROD-00036,Office Supplies,Paper,Paper Model 676,31.21,5,0.1,8.71
+ORD-00037,2018-04-03,2018-04-05,First Class,CUST-3889,Customer 2992,Consumer,United States,San Diego,California,52017,West,PROD-00037,Furniture,Tables,Tables Model 204,641.81,3,0.0,45.43
+ORD-00038,2018-05-01,2018-05-05,Second Class,CUST-3916,Customer 911,Consumer,United States,Springfield,Illinois,55704,Central,PROD-00038,Office Supplies,Paper,Paper Model 591,19.44,3,0.1,1.79
+ORD-00039,2018-04-22,2018-04-24,Same Day,CUST-1688,Customer 4497,Consumer,United States,Columbus,Ohio,40013,Central,PROD-00039,Office Supplies,Appliances,Appliances Model 635,311.19,4,0.0,19.78
+ORD-00040,2018-05-09,2018-05-14,Second Class,CUST-1330,Customer 950,Corporate,United States,Newark,New Jersey,89991,East,PROD-00040,Office Supplies,Storage,Storage Model 306,112.02,4,0.2,11.14
+ORD-00041,2018-07-19,2018-07-20,Same Day,CUST-2747,Customer 2076,Consumer,United States,Columbus,Ohio,80258,Central,PROD-00041,Office Supplies,Paper,Paper Model 214,12.92,2,0.1,3.25
+ORD-00042,2018-09-05,2018-09-12,First Class,CUST-2208,Customer 2515,Consumer,United States,Buffalo,New York,88348,East,PROD-00042,Technology,Phones,Phones Model 581,269.64,1,0.2,21.52
+ORD-00043,2018-06-14,2018-06-17,Same Day,CUST-3143,Customer 3332,Corporate,United States,Detroit,Michigan,46776,Central,PROD-00043,Technology,Phones,Phones Model 358,563.07,2,0.0,111.29
+ORD-00044,2018-04-13,2018-04-15,Second Class,CUST-1785,Customer 3030,Corporate,United States,Augusta,Georgia,20060,South,PROD-00044,Office Supplies,Appliances,Appliances Model 101,200.38,3,0.2,25.75
+ORD-00045,2018-05-18,2018-05-19,Standard Class,CUST-3697,Customer 101,Consumer,United States,Mobile,Alabama,88592,South,PROD-00045,Technology,Phones,Phones Model 775,673.26,2,0.0,224.92
+ORD-00046,2018-09-25,2018-09-27,Standard Class,CUST-3401,Customer 4647,Corporate,United States,Chicago,Illinois,16655,Central,PROD-00046,Technology,Accessories,Accessories Model 897,68.03,3,0.0,10.75
+ORD-00047,2018-05-26,2018-05-29,First Class,CUST-3978,Customer 2401,Consumer,United States,Los Angeles,California,98110,West,PROD-00047,Office Supplies,Binders,Binders Model 676,21.07,2,0.0,1.66
+ORD-00048,2018-05-02,2018-05-04,Second Class,CUST-1941,Customer 3372,Corporate,United States,Norfolk,Virginia,59923,East,PROD-00048,Office Supplies,Paper,Paper Model 456,21.17,3,0.0,4.3
+ORD-00049,2018-05-07,2018-05-13,Second Class,CUST-2289,Customer 2344,Corporate,United States,Houston,Texas,88563,Central,PROD-00049,Office Supplies,Binders,Binders Model 533,10.55,1,0.0,3.9
+ORD-00050,2018-06-14,2018-06-17,Second Class,CUST-2680,Customer 353,Home Office,United States,Springfield,Massachusetts,14030,East,PROD-00050,Technology,Copiers,Copiers Model 911,2662.15,3,0.0,280.67
+ORD-00051,2018-04-04,2018-04-06,First Class,CUST-3694,Customer 2956,Consumer,United States,Tucson,Arizona,99779,West,PROD-00051,Technology,Machines,Machines Model 435,1246.34,2,0.0,75.54
+ORD-00052,2018-04-20,2018-04-24,Standard Class,CUST-1626,Customer 1019,Consumer,United States,Mesa,Arizona,43289,West,PROD-00052,Furniture,Furnishings,Furnishings Model 613,60.19,1,0.0,10.0
+ORD-00053,2018-07-28,2018-08-02,Same Day,CUST-1139,Customer 1180,Consumer,United States,Buffalo,New York,29739,East,PROD-00053,Office Supplies,Storage,Storage Model 970,66.62,2,0.1,27.37
+ORD-00054,2018-06-12,2018-06-14,First Class,CUST-3764,Customer 3537,Consumer,United States,Columbus,Ohio,71687,Central,PROD-00054,Office Supplies,Storage,Storage Model 222,74.72,3,0.2,8.81
+ORD-00055,2018-05-27,2018-05-29,Same Day,CUST-1762,Customer 3651,Consumer,United States,Boston,Massachusetts,46491,East,PROD-00055,Office Supplies,Appliances,Appliances Model 858,202.15,2,0.0,47.0
+ORD-00056,2018-08-01,2018-08-02,Standard Class,CUST-2834,Customer 2503,Home Office,United States,Saint Paul,Minnesota,82115,Central,PROD-00056,Furniture,Bookcases,Bookcases Model 270,141.51,1,0.1,11.02
+ORD-00057,2018-04-10,2018-04-15,First Class,CUST-3303,Customer 3820,Consumer,United States,Portland,Oregon,93778,West,PROD-00057,Technology,Accessories,Accessories Model 199,90.24,5,0.2,22.06
+ORD-00058,2018-04-30,2018-05-04,Standard Class,CUST-2556,Customer 980,Consumer,United States,Buffalo,New York,14781,East,PROD-00058,Office Supplies,Binders,Binders Model 242,40.06,3,0.0,1.77
+ORD-00059,2018-06-10,2018-06-13,Same Day,CUST-1676,Customer 4835,Corporate,United States,Seattle,Washington,30448,West,PROD-00059,Technology,Machines,Machines Model 853,2550.73,5,0.1,596.34
+ORD-00060,2018-06-07,2018-06-13,Second Class,CUST-1092,Customer 977,Consumer,United States,Springfield,Massachusetts,61550,East,PROD-00060,Technology,Copiers,Copiers Model 725,1430.13,2,0.2,182.84
+ORD-00061,2018-03-08,2018-03-14,Second Class,CUST-2093,Customer 1372,Corporate,United States,New York City,New York,59294,East,PROD-00061,Technology,Accessories,Accessories Model 354,51.44,2,0.0,3.3
+ORD-00062,2018-04-25,2018-04-29,Same Day,CUST-1037,Customer 2281,Consumer,United States,Springfield,Illinois,31446,Central,PROD-00062,Office Supplies,Appliances,Appliances Model 986,325.15,4,0.0,78.78
+ORD-00063,2018-05-10,2018-05-16,Second Class,CUST-2788,Customer 4577,Consumer,United States,Paterson,New Jersey,86579,East,PROD-00063,Office Supplies,Storage,Storage Model 335,51.39,2,0.3,16.71
+ORD-00064,2018-06-17,2018-06-19,Same Day,CUST-3188,Customer 108,Consumer,United States,Orlando,Florida,95389,South,PROD-00064,Furniture,Furnishings,Furnishings Model 388,130.92,3,0.3,16.55
+ORD-00065,2018-06-07,2018-06-08,First Class,CUST-3915,Customer 973,Consumer,United States,Newark,New Jersey,95615,East,PROD-00065,Office Supplies,Storage,Storage Model 796,65.79,2,0.0,9.75
+ORD-00066,2018-05-16,2018-05-18,First Class,CUST-3728,Customer 1627,Home Office,United States,Cambridge,Massachusetts,27101,East,PROD-00066,Furniture,Furnishings,Furnishings Model 679,111.38,2,0.0,18.3
+ORD-00067,2018-02-18,2018-02-19,First Class,CUST-2202,Customer 704,Consumer,United States,Houston,Texas,76178,Central,PROD-00067,Office Supplies,Paper,Paper Model 492,7.8,1,0.0,3.04
+ORD-00068,2018-05-19,2018-05-22,Second Class,CUST-2837,Customer 875,Consumer,United States,Tacoma,Washington,38016,West,PROD-00068,Furniture,Tables,Tables Model 146,213.89,1,0.0,57.73
+ORD-00069,2018-05-24,2018-05-31,Standard Class,CUST-2895,Customer 3810,Consumer,United States,Rochester,New York,28932,East,PROD-00069,Furniture,Chairs,Chairs Model 911,135.44,1,0.0,40.13
+ORD-00070,2019-01-03,2019-01-04,Second Class,CUST-1137,Customer 2412,Consumer,United States,Seattle,Washington,54653,West,PROD-00070,Furniture,Furnishings,Furnishings Model 385,43.4,1,0.3,7.56
+ORD-00071,2018-05-08,2018-05-09,Second Class,CUST-3238,Customer 2108,Home Office,United States,Newark,New Jersey,62802,East,PROD-00071,Furniture,Chairs,Chairs Model 125,627.27,6,0.0,158.2
+ORD-00072,2018-06-10,2018-06-13,Standard Class,CUST-2664,Customer 3554,Consumer,United States,Montgomery,Alabama,17549,South,PROD-00072,Technology,Machines,Machines Model 916,499.43,1,0.2,73.27
+ORD-00073,2018-08-16,2018-08-23,Standard Class,CUST-3390,Customer 1274,Corporate,United States,Seattle,Washington,88933,West,PROD-00073,Technology,Copiers,Copiers Model 757,3347.94,3,0.0,814.62
+ORD-00074,2018-07-14,2018-07-16,Standard Class,CUST-2583,Customer 560,Home Office,United States,Houston,Texas,35362,Central,PROD-00074,Office Supplies,Storage,Storage Model 798,125.06,4,0.0,7.91
+ORD-00075,2018-09-10,2018-09-13,Standard Class,CUST-1972,Customer 117,Consumer,United States,Charlotte,North Carolina,57842,South,PROD-00075,Furniture,Chairs,Chairs Model 709,354.57,3,0.0,37.87
+ORD-00076,2018-03-09,2018-03-10,Second Class,CUST-1662,Customer 4970,Home Office,United States,Reno,Nevada,56539,West,PROD-00076,Furniture,Furnishings,Furnishings Model 872,37.75,1,0.3,13.21
+ORD-00077,2018-03-27,2018-03-28,Same Day,CUST-3291,Customer 3047,Consumer,United States,Birmingham,Alabama,43717,South,PROD-00077,Furniture,Chairs,Chairs Model 125,343.08,3,0.0,103.86
+ORD-00078,2018-04-17,2018-04-24,First Class,CUST-2811,Customer 44,Consumer,United States,Salem,Oregon,64596,West,PROD-00078,Furniture,Tables,Tables Model 799,735.44,3,0.0,88.92
+ORD-00079,2018-03-03,2018-03-10,Same Day,CUST-1415,Customer 509,Consumer,United States,Savannah,Georgia,33016,South,PROD-00079,Technology,Phones,Phones Model 890,958.88,3,0.0,230.96
+ORD-00080,2018-05-25,2018-05-26,Second Class,CUST-3755,Customer 3440,Corporate,United States,Buffalo,New York,65200,East,PROD-00080,Furniture,Chairs,Chairs Model 984,463.14,4,0.0,70.3
+ORD-00081,2018-03-30,2018-04-06,Standard Class,CUST-1343,Customer 3929,Home Office,United States,Springfield,Illinois,90268,Central,PROD-00081,Office Supplies,Storage,Storage Model 772,230.79,6,0.0,33.74
+ORD-00082,2018-09-24,2018-09-28,First Class,CUST-3730,Customer 4945,Consumer,United States,Mesa,Arizona,70287,West,PROD-00082,Furniture,Chairs,Chairs Model 893,364.45,3,0.0,78.02
+ORD-00083,2018-04-06,2018-04-12,First Class,CUST-3701,Customer 917,Corporate,United States,Henderson,Nevada,93402,West,PROD-00083,Furniture,Furnishings,Furnishings Model 521,80.44,2,0.3,15.52
+ORD-00084,2018-05-01,2018-05-04,Same Day,CUST-1146,Customer 2946,Consumer,United States,Detroit,Michigan,52607,Central,PROD-00084,Office Supplies,Storage,Storage Model 757,78.73,3,0.2,20.25
+ORD-00085,2018-07-19,2018-07-22,Second Class,CUST-1323,Customer 799,Consumer,United States,Cincinnati,Ohio,37621,Central,PROD-00085,Office Supplies,Binders,Binders Model 285,12.31,1,0.0,1.31
+ORD-00086,2018-03-16,2018-03-19,Second Class,CUST-3170,Customer 4972,Consumer,United States,Newark,New Jersey,22823,East,PROD-00086,Furniture,Tables,Tables Model 198,1124.45,4,0.0,382.45
+ORD-00087,2018-03-01,2018-03-05,Second Class,CUST-2276,Customer 1761,Home Office,United States,Virginia Beach,Virginia,39986,East,PROD-00087,Furniture,Chairs,Chairs Model 700,99.95,1,0.2,16.07
+ORD-00088,2018-06-02,2018-06-03,First Class,CUST-2879,Customer 2334,Corporate,United States,Grand Rapids,Michigan,74325,Central,PROD-00088,Office Supplies,Binders,Binders Model 178,24.89,2,0.0,6.26
+ORD-00089,2018-06-07,2018-06-08,Same Day,CUST-3359,Customer 3276,Consumer,United States,Springfield,Illinois,67771,Central,PROD-00089,Furniture,Chairs,Chairs Model 902,380.35,4,0.2,147.27
+ORD-00090,2018-07-17,2018-07-19,First Class,CUST-1601,Customer 819,Consumer,United States,Nashville,Tennessee,64973,South,PROD-00090,Furniture,Bookcases,Bookcases Model 531,542.8,3,0.0,199.95
+ORD-00091,2018-06-26,2018-07-01,First Class,CUST-1475,Customer 2169,Consumer,United States,Springfield,Illinois,24690,Central,PROD-00091,Technology,Machines,Machines Model 559,1122.48,2,0.1,185.32
+ORD-00092,2018-06-10,2018-06-12,Standard Class,CUST-3618,Customer 3736,Consumer,United States,Augusta,Georgia,49107,South,PROD-00092,Office Supplies,Paper,Paper Model 190,16.71,2,0.0,4.92
+ORD-00093,2018-04-11,2018-04-15,Same Day,CUST-2516,Customer 3066,Consumer,United States,Chicago,Illinois,67888,Central,PROD-00093,Office Supplies,Binders,Binders Model 392,40.87,4,0.0,3.29
+ORD-00094,2018-06-05,2018-06-12,Standard Class,CUST-1575,Customer 3260,Home Office,United States,Henderson,Nevada,20956,West,PROD-00094,Office Supplies,Appliances,Appliances Model 602,116.49,2,0.3,21.24
+ORD-00095,2018-06-09,2018-06-10,Second Class,CUST-1347,Customer 907,Consumer,United States,Jersey City,New Jersey,96839,East,PROD-00095,Office Supplies,Appliances,Appliances Model 450,313.97,4,0.2,61.68
+ORD-00096,2018-04-09,2018-04-13,First Class,CUST-3868,Customer 4109,Consumer,United States,Ann Arbor,Michigan,66227,Central,PROD-00096,Office Supplies,Storage,Storage Model 163,32.21,1,0.0,11.99
+ORD-00097,2018-10-27,2018-10-30,Same Day,CUST-2511,Customer 603,Consumer,United States,Columbus,Ohio,46533,Central,PROD-00097,Office Supplies,Paper,Paper Model 331,30.07,4,0.0,12.01
+ORD-00098,2018-06-23,2018-06-29,Second Class,CUST-1382,Customer 4296,Home Office,United States,Richmond,Virginia,66234,East,PROD-00098,Technology,Copiers,Copiers Model 932,3575.93,4,0.0,1074.12
+ORD-00099,2018-03-27,2018-03-29,Same Day,CUST-2304,Customer 2634,Corporate,United States,Reno,Nevada,77594,West,PROD-00099,Furniture,Furnishings,Furnishings Model 248,47.87,1,0.1,16.06
+ORD-00100,2018-07-17,2018-07-21,First Class,CUST-1072,Customer 1792,Consumer,United States,Miami,Florida,66901,South,PROD-00100,Office Supplies,Appliances,Appliances Model 655,196.79,2,0.0,63.3
+ORD-00101,2018-08-01,2018-08-07,Same Day,CUST-3569,Customer 3528,Corporate,United States,Los Angeles,California,21519,West,PROD-00101,Office Supplies,Appliances,Appliances Model 855,71.65,1,0.2,19.28
+ORD-00102,2018-06-18,2018-06-25,Second Class,CUST-3981,Customer 4544,Consumer,United States,Tucson,Arizona,41115,West,PROD-00102,Technology,Copiers,Copiers Model 314,2195.24,3,0.2,256.99
+ORD-00103,2018-05-05,2018-05-09,Standard Class,CUST-2118,Customer 1812,Consumer,United States,Henderson,Nevada,76266,West,PROD-00103,Office Supplies,Paper,Paper Model 827,17.68,2,0.0,4.87
+ORD-00104,2018-04-07,2018-04-10,First Class,CUST-2397,Customer 3912,Consumer,United States,Jersey City,New Jersey,11832,East,PROD-00104,Office Supplies,Binders,Binders Model 130,41.02,3,0.0,8.32
+ORD-00105,2018-05-16,2018-05-20,Standard Class,CUST-3387,Customer 841,Consumer,United States,Tacoma,Washington,51368,West,PROD-00105,Furniture,Bookcases,Bookcases Model 101,180.14,1,0.0,37.8
+ORD-00106,2018-06-13,2018-06-19,First Class,CUST-2360,Customer 3143,Consumer,United States,Eugene,Oregon,98425,West,PROD-00106,Office Supplies,Appliances,Appliances Model 960,75.58,1,0.2,4.15
+ORD-00107,2018-05-21,2018-05-25,Second Class,CUST-1664,Customer 4686,Home Office,United States,Norfolk,Virginia,79715,East,PROD-00107,Furniture,Bookcases,Bookcases Model 732,153.23,1,0.2,32.6
+ORD-00108,2018-09-14,2018-09-15,First Class,CUST-2516,Customer 2091,Corporate,United States,Saint Paul,Minnesota,81835,Central,PROD-00108,Office Supplies,Appliances,Appliances Model 918,194.32,2,0.0,19.52
+ORD-00109,2018-07-04,2018-07-11,Standard Class,CUST-2892,Customer 4616,Corporate,United States,Salem,Oregon,83366,West,PROD-00109,Furniture,Chairs,Chairs Model 390,398.87,3,0.0,77.24
+ORD-00110,2018-04-02,2018-04-06,First Class,CUST-1040,Customer 1037,Consumer,United States,Memphis,Tennessee,47570,South,PROD-00110,Office Supplies,Binders,Binders Model 786,48.26,4,0.0,10.36
+ORD-00111,2018-03-23,2018-03-27,Second Class,CUST-2383,Customer 725,Consumer,United States,Mobile,Alabama,97977,South,PROD-00111,Furniture,Tables,Tables Model 203,597.94,3,0.1,174.33
+ORD-00112,2018-06-23,2018-06-25,First Class,CUST-3031,Customer 988,Corporate,United States,Virginia Beach,Virginia,16615,East,PROD-00112,Office Supplies,Appliances,Appliances Model 597,193.69,2,0.0,42.23
+ORD-00113,2018-05-07,2018-05-11,Standard Class,CUST-3622,Customer 803,Consumer,United States,Minneapolis,Minnesota,82298,Central,PROD-00113,Technology,Accessories,Accessories Model 355,116.03,5,0.0,6.9
+ORD-00114,2018-07-11,2018-07-14,Second Class,CUST-2278,Customer 2583,Consumer,United States,Henderson,Nevada,48311,West,PROD-00114,Furniture,Tables,Tables Model 597,657.91,3,0.0,175.04
+ORD-00115,2018-06-22,2018-06-26,Standard Class,CUST-1966,Customer 3838,Consumer,United States,Orlando,Florida,33434,South,PROD-00115,Office Supplies,Binders,Binders Model 626,46.16,5,0.1,18.13
+ORD-00116,2018-05-16,2018-05-17,First Class,CUST-3629,Customer 527,Corporate,United States,Norfolk,Virginia,96879,East,PROD-00116,Office Supplies,Storage,Storage Model 379,57.97,2,0.1,7.59
+ORD-00117,2018-04-02,2018-04-06,Same Day,CUST-2901,Customer 1666,Consumer,United States,Ann Arbor,Michigan,25739,Central,PROD-00117,Furniture,Bookcases,Bookcases Model 410,392.64,2,0.0,56.31
+ORD-00118,2018-03-04,2018-03-11,Standard Class,CUST-3218,Customer 1139,Consumer,United States,Cleveland,Ohio,76202,Central,PROD-00118,Technology,Accessories,Accessories Model 881,24.46,1,0.0,7.02
+ORD-00119,2018-06-04,2018-06-05,First Class,CUST-1701,Customer 460,Corporate,United States,San Diego,California,89599,West,PROD-00119,Furniture,Chairs,Chairs Model 285,368.78,3,0.0,39.24
+ORD-00120,2018-03-15,2018-03-22,Same Day,CUST-1511,Customer 2553,Consumer,United States,Buffalo,New York,43649,East,PROD-00120,Office Supplies,Appliances,Appliances Model 688,90.96,1,0.0,27.62
+ORD-00121,2018-04-01,2018-04-04,Same Day,CUST-2284,Customer 4421,Consumer,United States,Columbus,Ohio,57445,Central,PROD-00121,Office Supplies,Storage,Storage Model 172,76.41,2,0.0,5.2
+ORD-00122,2018-05-31,2018-06-06,Second Class,CUST-1584,Customer 4675,Consumer,United States,Springfield,Illinois,49470,Central,PROD-00122,Office Supplies,Paper,Paper Model 731,15.2,2,0.0,3.02
+ORD-00123,2018-05-24,2018-05-29,Same Day,CUST-1984,Customer 2809,Consumer,United States,Phoenix,Arizona,84965,West,PROD-00123,Office Supplies,Storage,Storage Model 952,104.57,3,0.0,7.68
+ORD-00124,2018-03-20,2018-03-24,Standard Class,CUST-1459,Customer 2899,Corporate,United States,Ann Arbor,Michigan,58621,Central,PROD-00124,Office Supplies,Storage,Storage Model 980,83.34,3,0.1,8.25
+ORD-00125,2018-08-11,2018-08-16,Standard Class,CUST-3577,Customer 3244,Consumer,United States,Salem,Oregon,42926,West,PROD-00125,Furniture,Furnishings,Furnishings Model 623,51.63,1,0.0,11.24
+ORD-00126,2018-08-09,2018-08-15,Same Day,CUST-2906,Customer 4069,Consumer,United States,Cincinnati,Ohio,47997,Central,PROD-00126,Technology,Phones,Phones Model 387,507.36,2,0.1,68.71
+ORD-00127,2018-06-26,2018-06-29,First Class,CUST-3389,Customer 2332,Home Office,United States,Pittsburgh,Pennsylvania,69940,East,PROD-00127,Office Supplies,Appliances,Appliances Model 703,249.22,3,0.0,61.1
+ORD-00128,2018-06-26,2018-06-28,Standard Class,CUST-3105,Customer 4571,Home Office,United States,Charlotte,North Carolina,50724,South,PROD-00128,Technology,Phones,Phones Model 666,1573.81,5,0.0,283.2
+ORD-00129,2018-06-26,2018-06-30,Standard Class,CUST-3266,Customer 3686,Home Office,United States,San Diego,California,41704,West,PROD-00129,Technology,Copiers,Copiers Model 125,3057.36,3,0.0,684.17
+ORD-00130,2019-07-22,2019-07-28,Second Class,CUST-3667,Customer 632,Consumer,United States,Tucson,Arizona,38391,West,PROD-00130,Technology,Accessories,Accessories Model 642,123.24,5,0.1,14.61
+ORD-00131,2018-07-31,2018-08-05,First Class,CUST-1816,Customer 4799,Consumer,United States,Allentown,Pennsylvania,73291,East,PROD-00131,Office Supplies,Appliances,Appliances Model 331,272.38,4,0.2,20.89
+ORD-00132,2018-07-06,2018-07-11,Same Day,CUST-3779,Customer 2457,Home Office,United States,Buffalo,New York,99723,East,PROD-00132,Office Supplies,Binders,Binders Model 958,33.13,3,0.0,2.98
+ORD-00133,2018-04-06,2018-04-09,First Class,CUST-3512,Customer 982,Corporate,United States,Henderson,Nevada,12526,West,PROD-00133,Technology,Copiers,Copiers Model 893,770.3,1,0.2,149.28
+ORD-00134,2018-05-06,2018-05-12,Second Class,CUST-1247,Customer 4655,Consumer,United States,Philadelphia,Pennsylvania,34686,East,PROD-00134,Office Supplies,Binders,Binders Model 185,35.93,3,0.0,2.41
+ORD-00135,2018-12-16,2018-12-17,Second Class,CUST-1730,Customer 4318,Consumer,United States,Nashville,Tennessee,83339,South,PROD-00135,Furniture,Chairs,Chairs Model 898,311.62,3,0.0,19.13
+ORD-00136,2018-02-20,2018-02-23,First Class,CUST-3421,Customer 1557,Consumer,United States,Allentown,Pennsylvania,16574,East,PROD-00136,Technology,Phones,Phones Model 626,898.77,3,0.1,203.99
+ORD-00137,2018-04-22,2018-04-23,Second Class,CUST-1417,Customer 2206,Home Office,United States,Reno,Nevada,18733,West,PROD-00137,Technology,Copiers,Copiers Model 463,1870.8,2,0.0,526.23
+ORD-00138,2018-08-12,2018-08-14,Second Class,CUST-2055,Customer 4444,Consumer,United States,Salem,Oregon,60290,West,PROD-00138,Office Supplies,Paper,Paper Model 890,13.69,2,0.0,2.78
+ORD-00139,2018-04-09,2018-04-12,Second Class,CUST-1368,Customer 4985,Consumer,United States,Virginia Beach,Virginia,82793,East,PROD-00139,Furniture,Tables,Tables Model 747,552.42,2,0.0,126.08
+ORD-00140,2018-07-08,2018-07-11,First Class,CUST-3607,Customer 3956,Consumer,United States,Rochester,New York,46051,East,PROD-00140,Office Supplies,Paper,Paper Model 217,16.02,2,0.1,1.62
+ORD-00141,2018-05-23,2018-05-27,Second Class,CUST-1108,Customer 922,Corporate,United States,Tucson,Arizona,25909,West,PROD-00141,Technology,Phones,Phones Model 934,203.93,1,0.3,22.34
+ORD-00142,2018-04-12,2018-04-15,Same Day,CUST-3632,Customer 405,Corporate,United States,Los Angeles,California,99682,West,PROD-00142,Technology,Copiers,Copiers Model 120,3460.39,4,0.0,298.78
+ORD-00143,2018-02-15,2018-02-18,Same Day,CUST-1839,Customer 4773,Consumer,United States,Tacoma,Washington,87338,West,PROD-00143,Furniture,Chairs,Chairs Model 471,90.19,1,0.3,22.46
+ORD-00144,2018-06-02,2018-06-04,Standard Class,CUST-1418,Customer 4685,Corporate,United States,Phoenix,Arizona,83432,West,PROD-00144,Furniture,Tables,Tables Model 945,235.09,1,0.0,34.28
+ORD-00145,2018-04-05,2018-04-08,Same Day,CUST-2644,Customer 1621,Home Office,United States,Detroit,Michigan,38133,Central,PROD-00145,Technology,Accessories,Accessories Model 757,49.25,2,0.0,11.48
+ORD-00146,2018-05-13,2018-05-15,Standard Class,CUST-1821,Customer 2953,Consumer,United States,Paterson,New Jersey,61571,East,PROD-00146,Office Supplies,Storage,Storage Model 325,81.82,3,0.1,6.16
+ORD-00147,2018-06-25,2018-06-26,First Class,CUST-2422,Customer 3119,Consumer,United States,Salem,Oregon,89062,West,PROD-00147,Office Supplies,Binders,Binders Model 933,26.78,2,0.0,8.67
+ORD-00148,2018-07-23,2018-07-27,Second Class,CUST-1683,Customer 1595,Consumer,United States,Orlando,Florida,60908,South,PROD-00148,Technology,Machines,Machines Model 255,1021.3,2,0.1,97.73
+ORD-00149,2018-04-22,2018-04-26,Same Day,CUST-1256,Customer 566,Corporate,United States,San Francisco,California,21278,West,PROD-00149,Furniture,Furnishings,Furnishings Model 443,174.03,3,0.0,8.99
+ORD-00150,2018-04-12,2018-04-16,Standard Class,CUST-3828,Customer 4800,Consumer,United States,Columbus,Ohio,61458,Central,PROD-00150,Office Supplies,Paper,Paper Model 389,14.25,2,0.0,3.91
+ORD-00151,2018-03-15,2018-03-18,First Class,CUST-1838,Customer 2869,Corporate,United States,Reno,Nevada,74265,West,PROD-00151,Furniture,Bookcases,Bookcases Model 373,1034.96,5,0.0,214.17
+ORD-00152,2018-07-28,2018-07-31,Standard Class,CUST-3963,Customer 858,Corporate,United States,Saint Paul,Minnesota,66782,Central,PROD-00152,Office Supplies,Binders,Binders Model 773,66.16,5,0.0,5.13
+ORD-00153,2018-11-24,2018-11-30,Second Class,CUST-3283,Customer 1285,Consumer,United States,Rochester,Minnesota,65415,Central,PROD-00153,Technology,Phones,Phones Model 478,603.91,2,0.0,198.08
+ORD-00154,2018-08-07,2018-08-10,Same Day,CUST-1553,Customer 585,Home Office,United States,Tucson,Arizona,64160,West,PROD-00154,Office Supplies,Paper,Paper Model 336,15.22,2,0.0,0.99
+ORD-00155,2018-08-28,2018-08-31,First Class,CUST-1181,Customer 4328,Consumer,United States,Atlanta,Georgia,64399,South,PROD-00155,Technology,Accessories,Accessories Model 453,79.33,3,0.0,22.01
+ORD-00156,2018-04-09,2018-04-10,Standard Class,CUST-1157,Customer 1246,Consumer,United States,Pittsburgh,Pennsylvania,35298,East,PROD-00156,Office Supplies,Binders,Binders Model 837,10.75,1,0.0,1.5
+ORD-00157,2018-06-20,2018-06-22,First Class,CUST-2478,Customer 52,Corporate,United States,Newark,New Jersey,32191,East,PROD-00157,Office Supplies,Binders,Binders Model 610,23.0,2,0.0,6.41
+ORD-00158,2018-07-16,2018-07-19,Standard Class,CUST-1571,Customer 2164,Corporate,United States,Rochester,Minnesota,66964,Central,PROD-00158,Furniture,Tables,Tables Model 211,519.23,2,0.0,199.7
+ORD-00159,2018-01-18,2018-01-21,Standard Class,CUST-1857,Customer 538,Consumer,United States,Miami,Florida,43092,South,PROD-00159,Office Supplies,Binders,Binders Model 466,60.06,5,0.0,3.08
+ORD-00160,2018-03-25,2018-03-29,Second Class,CUST-2785,Customer 541,Home Office,United States,Cambridge,Massachusetts,99407,East,PROD-00160,Office Supplies,Appliances,Appliances Model 934,69.38,1,0.2,17.9
+ORD-00161,2018-10-02,2018-10-05,Second Class,CUST-2728,Customer 815,Home Office,United States,Norfolk,Virginia,85257,East,PROD-00161,Furniture,Tables,Tables Model 502,652.87,3,0.1,66.5
+ORD-00162,2018-03-08,2018-03-12,Standard Class,CUST-2048,Customer 1416,Consumer,United States,Buffalo,New York,72513,East,PROD-00162,Office Supplies,Binders,Binders Model 333,34.74,3,0.1,6.99
+ORD-00163,2018-09-13,2018-09-18,Same Day,CUST-2497,Customer 2839,Home Office,United States,San Diego,California,61097,West,PROD-00163,Office Supplies,Paper,Paper Model 434,13.65,2,0.0,3.43
+ORD-00164,2018-03-08,2018-03-14,First Class,CUST-2424,Customer 1653,Consumer,United States,Springfield,Illinois,40279,Central,PROD-00164,Technology,Copiers,Copiers Model 866,951.24,1,0.0,165.03
+ORD-00165,2018-03-27,2018-04-01,First Class,CUST-3996,Customer 2666,Consumer,United States,Tucson,Arizona,24404,West,PROD-00165,Office Supplies,Paper,Paper Model 438,48.61,6,0.1,19.46
+ORD-00166,2018-06-22,2018-06-29,Second Class,CUST-1592,Customer 4515,Consumer,United States,Reno,Nevada,80022,West,PROD-00166,Technology,Accessories,Accessories Model 869,55.27,2,0.0,21.52
+ORD-00167,2018-05-25,2018-05-26,Same Day,CUST-3182,Customer 4063,Home Office,United States,Mesa,Arizona,45198,West,PROD-00167,Furniture,Bookcases,Bookcases Model 478,373.79,3,0.2,66.02
+ORD-00168,2018-04-27,2018-04-29,Standard Class,CUST-1421,Customer 2357,Corporate,United States,Allentown,Pennsylvania,59997,East,PROD-00168,Furniture,Furnishings,Furnishings Model 837,45.84,1,0.2,3.26
+ORD-00169,2018-09-27,2018-09-28,Second Class,CUST-3261,Customer 3811,Consumer,United States,San Francisco,California,88692,West,PROD-00169,Office Supplies,Binders,Binders Model 105,24.59,2,0.1,6.07
+ORD-00170,2018-03-16,2018-03-20,Standard Class,CUST-3948,Customer 864,Consumer,United States,Minneapolis,Minnesota,10567,Central,PROD-00170,Office Supplies,Storage,Storage Model 334,50.88,2,0.2,12.3
+ORD-00171,2018-05-11,2018-05-17,Standard Class,CUST-3530,Customer 186,Corporate,United States,Montgomery,Alabama,71032,South,PROD-00171,Furniture,Tables,Tables Model 875,241.3,1,0.0,18.77
+ORD-00172,2018-07-01,2018-07-03,Second Class,CUST-1348,Customer 4357,Consumer,United States,Greensboro,North Carolina,12179,South,PROD-00172,Technology,Phones,Phones Model 298,341.99,1,0.0,30.35
+ORD-00173,2018-06-09,2018-06-16,Same Day,CUST-1166,Customer 1552,Home Office,United States,Virginia Beach,Virginia,12019,East,PROD-00173,Technology,Copiers,Copiers Model 801,2983.01,4,0.3,710.25
+ORD-00174,2018-04-14,2018-04-15,First Class,CUST-1937,Customer 2208,Corporate,United States,Charlotte,North Carolina,91455,South,PROD-00174,Office Supplies,Binders,Binders Model 107,9.45,1,0.1,1.51
+ORD-00175,2018-04-16,2018-04-23,Second Class,CUST-1348,Customer 762,Consumer,United States,Cleveland,Ohio,95239,Central,PROD-00175,Furniture,Chairs,Chairs Model 520,92.5,1,0.1,9.41
+ORD-00176,2018-07-22,2018-07-25,Same Day,CUST-3897,Customer 4320,Home Office,United States,Cincinnati,Ohio,28704,Central,PROD-00176,Technology,Copiers,Copiers Model 372,1925.71,2,0.0,449.56
+ORD-00177,2018-07-26,2018-07-27,Standard Class,CUST-1398,Customer 1280,Consumer,United States,Reno,Nevada,28030,West,PROD-00177,Office Supplies,Binders,Binders Model 900,53.6,4,0.0,13.34
+ORD-00178,2018-06-10,2018-06-13,Second Class,CUST-1583,Customer 4276,Home Office,United States,Mesa,Arizona,79445,West,PROD-00178,Technology,Machines,Machines Model 877,610.21,1,0.1,144.22
+ORD-00179,2018-04-03,2018-04-05,First Class,CUST-3774,Customer 4728,Corporate,United States,Henderson,Nevada,83551,West,PROD-00179,Technology,Copiers,Copiers Model 338,2849.85,3,0.1,374.03
+ORD-00180,2018-04-17,2018-04-19,First Class,CUST-2601,Customer 3695,Corporate,United States,Buffalo,New York,13420,East,PROD-00180,Technology,Machines,Machines Model 111,524.67,1,0.0,169.46
+ORD-00181,2018-05-19,2018-05-21,Standard Class,CUST-1308,Customer 3282,Consumer,United States,Paterson,New Jersey,69875,East,PROD-00181,Office Supplies,Paper,Paper Model 263,8.89,1,0.0,2.92
+ORD-00182,2018-05-28,2018-06-03,Second Class,CUST-3846,Customer 1537,Home Office,United States,Allentown,Pennsylvania,57653,East,PROD-00182,Furniture,Chairs,Chairs Model 155,120.31,1,0.0,28.53
+ORD-00183,2018-06-28,2018-07-01,First Class,CUST-3767,Customer 3165,Consumer,United States,Portland,Oregon,26740,West,PROD-00183,Office Supplies,Paper,Paper Model 279,27.62,4,0.2,5.8
+ORD-00184,2018-05-08,2018-05-10,Second Class,CUST-3514,Customer 2771,Consumer,United States,Minneapolis,Minnesota,75263,Central,PROD-00184,Office Supplies,Paper,Paper Model 121,6.69,1,0.2,0.97
+ORD-00185,2018-07-20,2018-07-24,First Class,CUST-1099,Customer 1964,Consumer,United States,Phoenix,Arizona,74559,West,PROD-00185,Technology,Phones,Phones Model 202,263.04,1,0.1,41.18
+ORD-00186,2018-07-19,2018-07-24,Standard Class,CUST-2266,Customer 3846,Consumer,United States,Philadelphia,Pennsylvania,29465,East,PROD-00186,Furniture,Bookcases,Bookcases Model 339,361.97,2,0.0,93.36
+ORD-00187,2018-08-31,2018-09-02,Standard Class,CUST-1158,Customer 3436,Consumer,United States,Knoxville,Tennessee,61432,South,PROD-00187,Furniture,Chairs,Chairs Model 474,330.71,4,0.3,99.64
+ORD-00188,2018-05-22,2018-05-25,Second Class,CUST-3658,Customer 4711,Corporate,United States,Memphis,Tennessee,14131,South,PROD-00188,Technology,Accessories,Accessories Model 192,43.47,2,0.0,5.24
+ORD-00189,2018-06-12,2018-06-13,Same Day,CUST-1554,Customer 562,Home Office,United States,Cincinnati,Ohio,20652,Central,PROD-00189,Technology,Accessories,Accessories Model 644,37.08,2,0.2,8.9
+ORD-00190,2018-05-12,2018-05-14,Same Day,CUST-1651,Customer 2422,Consumer,United States,Tampa,Florida,74973,South,PROD-00190,Technology,Copiers,Copiers Model 979,989.15,1,0.1,175.98
+ORD-00191,2018-04-04,2018-04-08,Standard Class,CUST-3968,Customer 4718,Corporate,United States,Henderson,Nevada,97043,West,PROD-00191,Technology,Phones,Phones Model 840,631.94,2,0.0,173.2
+ORD-00192,2018-11-21,2018-11-23,First Class,CUST-3275,Customer 2136,Consumer,United States,Montgomery,Alabama,57147,South,PROD-00192,Office Supplies,Paper,Paper Model 956,21.89,3,0.2,5.1
+ORD-00193,2018-08-18,2018-08-21,Same Day,CUST-3471,Customer 2062,Home Office,United States,Richmond,Virginia,57671,East,PROD-00193,Office Supplies,Appliances,Appliances Model 161,225.43,3,0.2,61.04
+ORD-00194,2018-07-17,2018-07-22,Standard Class,CUST-3291,Customer 2181,Corporate,United States,Mesa,Arizona,99342,West,PROD-00194,Technology,Accessories,Accessories Model 151,53.64,2,0.0,9.83
+ORD-00195,2018-05-20,2018-05-21,First Class,CUST-3578,Customer 1961,Consumer,United States,Allentown,Pennsylvania,29171,East,PROD-00195,Office Supplies,Paper,Paper Model 481,15.48,2,0.1,4.9
+ORD-00196,2018-03-31,2018-04-04,First Class,CUST-2069,Customer 3880,Corporate,United States,Philadelphia,Pennsylvania,96129,East,PROD-00196,Office Supplies,Storage,Storage Model 675,38.66,1,0.0,12.29
+ORD-00197,2018-08-02,2018-08-04,Same Day,CUST-2496,Customer 3280,Consumer,United States,Paterson,New Jersey,65692,East,PROD-00197,Furniture,Furnishings,Furnishings Model 630,133.77,2,0.0,34.39
+ORD-00198,2018-05-11,2018-05-18,Standard Class,CUST-3419,Customer 3885,Consumer,United States,Naperville,Illinois,68541,Central,PROD-00198,Office Supplies,Paper,Paper Model 711,8.05,1,0.0,1.29
+ORD-00199,2018-06-18,2018-06-21,First Class,CUST-2879,Customer 3271,Corporate,United States,Springfield,Illinois,19470,Central,PROD-00199,Technology,Accessories,Accessories Model 684,86.43,4,0.0,25.43
+ORD-00200,2018-04-17,2018-04-23,First Class,CUST-3700,Customer 4688,Consumer,United States,Rochester,Minnesota,71344,Central,PROD-00200,Office Supplies,Appliances,Appliances Model 323,339.59,5,0.2,104.95
+ORD-00201,2018-06-06,2018-06-10,Second Class,CUST-3737,Customer 583,Consumer,United States,Boston,Massachusetts,54308,East,PROD-00201,Furniture,Chairs,Chairs Model 281,536.16,6,0.2,45.69
+ORD-00202,2018-04-20,2018-04-21,Second Class,CUST-1734,Customer 1614,Consumer,United States,Greensboro,North Carolina,60639,South,PROD-00202,Office Supplies,Binders,Binders Model 993,38.05,4,0.1,7.04
+ORD-00203,2018-04-22,2018-04-26,Same Day,CUST-2951,Customer 1102,Corporate,United States,Ann Arbor,Michigan,31326,Central,PROD-00203,Furniture,Tables,Tables Model 943,693.39,3,0.1,265.65
+ORD-00204,2018-06-05,2018-06-12,Second Class,CUST-1092,Customer 289,Consumer,United States,Reno,Nevada,14597,West,PROD-00204,Furniture,Tables,Tables Model 413,589.05,3,0.1,139.98
+ORD-00205,2018-03-07,2018-03-11,Standard Class,CUST-3220,Customer 3860,Consumer,United States,Houston,Texas,40788,Central,PROD-00205,Office Supplies,Binders,Binders Model 478,21.31,2,0.0,2.25
+ORD-00206,2018-03-09,2018-03-15,Same Day,CUST-2628,Customer 3061,Corporate,United States,Newark,New Jersey,75020,East,PROD-00206,Technology,Copiers,Copiers Model 985,3141.13,3,0.0,351.25
+ORD-00207,2018-04-09,2018-04-15,Same Day,CUST-2216,Customer 2927,Corporate,United States,Eugene,Oregon,59477,West,PROD-00207,Office Supplies,Appliances,Appliances Model 989,179.15,2,0.0,43.87
+ORD-00208,2018-05-07,2018-05-09,Second Class,CUST-2101,Customer 4103,Consumer,United States,Greensboro,North Carolina,43071,South,PROD-00208,Furniture,Furnishings,Furnishings Model 800,117.49,2,0.0,33.16
+ORD-00209,2018-07-23,2018-07-25,First Class,CUST-2305,Customer 1184,Consumer,United States,Las Vegas,Nevada,80603,West,PROD-00209,Furniture,Bookcases,Bookcases Model 975,699.63,4,0.0,97.74
+ORD-00210,2018-05-10,2018-05-14,Standard Class,CUST-2388,Customer 4336,Consumer,United States,Portland,Oregon,71923,West,PROD-00210,Office Supplies,Storage,Storage Model 144,62.44,2,0.2,13.23
+ORD-00211,2018-05-19,2018-05-22,Standard Class,CUST-1179,Customer 1447,Consumer,United States,Augusta,Georgia,80560,South,PROD-00211,Office Supplies,Storage,Storage Model 771,70.8,2,0.0,25.87
+ORD-00212,2018-05-03,2018-05-09,Standard Class,CUST-3286,Customer 1750,Consumer,United States,Springfield,Illinois,83251,Central,PROD-00212,Technology,Copiers,Copiers Model 389,4937.26,5,0.1,1826.0
+ORD-00213,2018-06-11,2018-06-18,Same Day,CUST-3925,Customer 1904,Corporate,United States,Philadelphia,Pennsylvania,67492,East,PROD-00213,Office Supplies,Storage,Storage Model 651,33.9,1,0.1,7.9
+ORD-00214,2018-04-03,2018-04-06,Standard Class,CUST-3950,Customer 3176,Corporate,United States,Allentown,Pennsylvania,41770,East,PROD-00214,Technology,Copiers,Copiers Model 361,2055.5,2,0.0,391.3
+ORD-00215,2018-05-14,2018-05-16,First Class,CUST-1280,Customer 1078,Corporate,United States,Boston,Massachusetts,86762,East,PROD-00215,Office Supplies,Appliances,Appliances Model 611,397.67,5,0.0,89.22
+ORD-00216,2018-06-17,2018-06-22,First Class,CUST-2043,Customer 2378,Consumer,United States,Rochester,Minnesota,45399,Central,PROD-00216,Office Supplies,Storage,Storage Model 228,100.59,3,0.1,13.55
+ORD-00217,2018-06-05,2018-06-07,Second Class,CUST-2619,Customer 848,Corporate,United States,Salem,Oregon,88948,West,PROD-00217,Office Supplies,Binders,Binders Model 738,23.2,2,0.0,7.1
+ORD-00218,2018-05-21,2018-05-27,Standard Class,CUST-3788,Customer 2877,Consumer,United States,Jersey City,New Jersey,67439,East,PROD-00218,Technology,Copiers,Copiers Model 891,705.11,1,0.3,195.47
+ORD-00219,2018-05-22,2018-05-25,Same Day,CUST-1371,Customer 1240,Home Office,United States,Tampa,Florida,54415,South,PROD-00219,Office Supplies,Storage,Storage Model 540,59.71,2,0.0,19.35
+ORD-00220,2018-06-24,2018-06-28,Second Class,CUST-2801,Customer 1333,Corporate,United States,Spokane,Washington,22569,West,PROD-00220,Office Supplies,Appliances,Appliances Model 452,336.17,4,0.0,97.01
+ORD-00221,2018-11-28,2018-11-29,First Class,CUST-3918,Customer 3507,Consumer,United States,Paterson,New Jersey,12369,East,PROD-00221,Office Supplies,Appliances,Appliances Model 642,268.19,3,0.1,48.52
+ORD-00222,2018-04-06,2018-04-10,Standard Class,CUST-2704,Customer 2380,Corporate,United States,Los Angeles,California,10528,West,PROD-00222,Furniture,Bookcases,Bookcases Model 942,269.17,2,0.3,23.17
+ORD-00223,2018-12-02,2018-12-05,First Class,CUST-3269,Customer 4792,Consumer,United States,Minneapolis,Minnesota,40314,Central,PROD-00223,Office Supplies,Appliances,Appliances Model 504,62.47,1,0.3,18.37
+ORD-00224,2018-04-04,2018-04-08,Second Class,CUST-3968,Customer 4123,Corporate,United States,Allentown,Pennsylvania,28047,East,PROD-00224,Furniture,Tables,Tables Model 396,171.49,1,0.2,31.11
+ORD-00225,2018-02-12,2018-02-14,First Class,CUST-1304,Customer 3238,Consumer,United States,Paterson,New Jersey,29748,East,PROD-00225,Office Supplies,Appliances,Appliances Model 714,403.38,5,0.2,17.66
+ORD-00226,2018-04-19,2018-04-24,Standard Class,CUST-2349,Customer 2366,Consumer,United States,Charlotte,North Carolina,45109,South,PROD-00226,Office Supplies,Appliances,Appliances Model 423,199.87,2,0.0,14.85
+ORD-00227,2018-06-13,2018-06-19,Standard Class,CUST-2461,Customer 2413,Home Office,United States,Mesa,Arizona,23919,West,PROD-00227,Office Supplies,Appliances,Appliances Model 554,195.81,3,0.2,60.45
+ORD-00228,2018-10-28,2018-10-30,Second Class,CUST-3486,Customer 3175,Consumer,United States,Reno,Nevada,57498,West,PROD-00228,Technology,Machines,Machines Model 109,617.64,1,0.1,139.28
+ORD-00229,2018-03-31,2018-04-01,Standard Class,CUST-2194,Customer 373,Corporate,United States,San Francisco,California,65808,West,PROD-00229,Technology,Phones,Phones Model 151,884.36,3,0.0,188.92
+ORD-00230,2018-06-24,2018-06-25,First Class,CUST-3423,Customer 1950,Consumer,United States,Jersey City,New Jersey,90792,East,PROD-00230,Technology,Phones,Phones Model 977,1391.42,5,0.0,192.7
+ORD-00231,2018-03-12,2018-03-16,First Class,CUST-3429,Customer 245,Corporate,United States,Cambridge,Massachusetts,80441,East,PROD-00231,Furniture,Chairs,Chairs Model 252,271.27,3,0.3,30.77
+ORD-00232,2018-10-23,2018-10-27,Same Day,CUST-3062,Customer 1841,Corporate,United States,Reno,Nevada,84420,West,PROD-00232,Furniture,Bookcases,Bookcases Model 760,157.3,1,0.1,18.97
+ORD-00233,2018-08-20,2018-08-23,Same Day,CUST-3791,Customer 3428,Consumer,United States,Allentown,Pennsylvania,38906,East,PROD-00233,Office Supplies,Storage,Storage Model 567,106.89,3,0.0,19.29
+ORD-00234,2018-04-22,2018-04-24,Same Day,CUST-1669,Customer 125,Consumer,United States,Allentown,Pennsylvania,81486,East,PROD-00234,Office Supplies,Paper,Paper Model 849,31.54,4,0.0,9.05
+ORD-00235,2018-02-25,2018-02-28,First Class,CUST-1500,Customer 4633,Consumer,United States,Memphis,Tennessee,76896,South,PROD-00235,Office Supplies,Binders,Binders Model 572,27.02,2,0.0,4.47
+ORD-00236,2018-09-05,2018-09-09,First Class,CUST-2415,Customer 2754,Consumer,United States,Knoxville,Tennessee,31946,South,PROD-00236,Furniture,Bookcases,Bookcases Model 761,604.01,4,0.2,188.67
+ORD-00237,2018-05-13,2018-05-16,Second Class,CUST-2573,Customer 1920,Consumer,United States,Ann Arbor,Michigan,57020,Central,PROD-00237,Office Supplies,Appliances,Appliances Model 510,262.73,3,0.0,14.91
+ORD-00238,2018-08-25,2018-09-01,Same Day,CUST-3613,Customer 1636,Corporate,United States,Orlando,Florida,84266,South,PROD-00238,Furniture,Furnishings,Furnishings Model 468,229.65,4,0.0,62.13
+ORD-00239,2018-05-21,2018-05-22,First Class,CUST-1530,Customer 1426,Home Office,United States,Norfolk,Virginia,32161,East,PROD-00239,Technology,Phones,Phones Model 576,967.23,3,0.0,74.28
+ORD-00240,2018-05-24,2018-05-28,Second Class,CUST-3007,Customer 1541,Home Office,United States,Tampa,Florida,37738,South,PROD-00240,Furniture,Tables,Tables Model 547,280.14,1,0.0,71.01
+ORD-00241,2018-04-23,2018-04-26,First Class,CUST-3540,Customer 531,Corporate,United States,Norfolk,Virginia,13925,East,PROD-00241,Office Supplies,Paper,Paper Model 553,17.47,2,0.0,1.27
+ORD-00242,2018-07-04,2018-07-07,Second Class,CUST-2220,Customer 4350,Corporate,United States,Orlando,Florida,18463,South,PROD-00242,Furniture,Furnishings,Furnishings Model 348,60.47,1,0.1,5.48
+ORD-00243,2018-05-28,2018-06-02,Same Day,CUST-1755,Customer 3104,Corporate,United States,Mobile,Alabama,67153,South,PROD-00243,Office Supplies,Paper,Paper Model 699,36.97,5,0.0,3.25
+ORD-00244,2018-06-26,2018-06-30,Same Day,CUST-3348,Customer 4757,Consumer,United States,Columbus,Ohio,92948,Central,PROD-00244,Office Supplies,Binders,Binders Model 969,49.3,4,0.0,5.01
+ORD-00245,2018-03-04,2018-03-11,Same Day,CUST-1815,Customer 1802,Home Office,United States,Charlotte,North Carolina,71009,South,PROD-00245,Technology,Machines,Machines Model 647,1749.44,3,0.0,418.6
+ORD-00246,2018-08-29,2018-08-30,First Class,CUST-3595,Customer 1037,Corporate,United States,Dallas,Texas,97938,Central,PROD-00246,Technology,Copiers,Copiers Model 554,1871.5,2,0.0,315.64
+ORD-00247,2018-09-24,2018-09-25,First Class,CUST-1727,Customer 3729,Consumer,United States,Boston,Massachusetts,51552,East,PROD-00247,Office Supplies,Storage,Storage Model 413,34.08,1,0.0,8.59
+ORD-00248,2018-05-28,2018-06-02,Second Class,CUST-1731,Customer 4012,Consumer,United States,Eugene,Oregon,66271,West,PROD-00248,Technology,Accessories,Accessories Model 877,87.08,4,0.0,18.3
+ORD-00249,2018-11-17,2018-11-21,Standard Class,CUST-1828,Customer 3464,Consumer,United States,Columbus,Ohio,19797,Central,PROD-00249,Technology,Machines,Machines Model 422,1063.74,2,0.1,305.95
+ORD-00250,2018-10-15,2018-10-17,Standard Class,CUST-3650,Customer 1143,Consumer,United States,New York City,New York,96130,East,PROD-00250,Technology,Machines,Machines Model 521,526.29,1,0.0,73.94
+ORD-00251,2018-07-06,2018-07-07,Same Day,CUST-2332,Customer 1756,Home Office,United States,Detroit,Michigan,81942,Central,PROD-00251,Technology,Copiers,Copiers Model 471,2533.71,3,0.2,222.51
+ORD-00252,2018-09-06,2018-09-07,Standard Class,CUST-3047,Customer 4841,Consumer,United States,Savannah,Georgia,23965,South,PROD-00252,Furniture,Furnishings,Furnishings Model 938,58.36,1,0.0,13.28
+ORD-00253,2018-08-09,2018-08-15,Same Day,CUST-3816,Customer 1630,Consumer,United States,Jersey City,New Jersey,23733,East,PROD-00253,Office Supplies,Appliances,Appliances Model 868,170.31,2,0.0,24.33
+ORD-00254,2018-02-24,2018-02-26,Second Class,CUST-1875,Customer 763,Home Office,United States,Rochester,Minnesota,63223,Central,PROD-00254,Furniture,Furnishings,Furnishings Model 423,131.1,2,0.0,34.92
+ORD-00255,2018-05-04,2018-05-06,Standard Class,CUST-3985,Customer 4890,Consumer,United States,Orlando,Florida,36926,South,PROD-00255,Furniture,Tables,Tables Model 964,213.66,1,0.1,17.4
+ORD-00256,2018-07-11,2018-07-13,Standard Class,CUST-3179,Customer 4840,Consumer,United States,Atlanta,Georgia,38783,South,PROD-00256,Technology,Machines,Machines Model 410,3006.46,6,0.2,212.73
+ORD-00257,2018-10-02,2018-10-05,Same Day,CUST-3004,Customer 3958,Consumer,United States,Miami,Florida,93360,South,PROD-00257,Office Supplies,Binders,Binders Model 435,11.96,1,0.1,1.54
+ORD-00258,2018-03-10,2018-03-11,Second Class,CUST-2678,Customer 558,Corporate,United States,Tucson,Arizona,46394,West,PROD-00258,Technology,Accessories,Accessories Model 640,18.57,1,0.2,4.13
+ORD-00259,2018-02-26,2018-03-01,Standard Class,CUST-1608,Customer 4622,Home Office,United States,Raleigh,North Carolina,74796,South,PROD-00259,Technology,Machines,Machines Model 486,634.94,1,0.0,96.64
+ORD-00260,2018-05-17,2018-05-18,Standard Class,CUST-3074,Customer 840,Consumer,United States,Dallas,Texas,38287,Central,PROD-00260,Technology,Machines,Machines Model 961,1883.13,4,0.1,232.57
+ORD-00261,2018-02-14,2018-02-20,Standard Class,CUST-2478,Customer 3,Home Office,United States,Paterson,New Jersey,92104,East,PROD-00261,Technology,Phones,Phones Model 352,561.1,2,0.0,140.76
+ORD-00262,2018-05-15,2018-05-17,Second Class,CUST-1635,Customer 1052,Consumer,United States,Portland,Oregon,40436,West,PROD-00262,Furniture,Tables,Tables Model 407,819.49,3,0.0,199.21
+ORD-00263,2018-06-15,2018-06-18,Second Class,CUST-2210,Customer 1405,Home Office,United States,Cincinnati,Ohio,96916,Central,PROD-00263,Furniture,Bookcases,Bookcases Model 439,165.27,1,0.0,56.5
+ORD-00264,2018-03-29,2018-04-04,Standard Class,CUST-1484,Customer 157,Corporate,United States,Rochester,New York,83567,East,PROD-00264,Office Supplies,Storage,Storage Model 204,31.93,1,0.1,8.6
+ORD-00265,2018-05-16,2018-05-20,Same Day,CUST-3728,Customer 1938,Corporate,United States,Minneapolis,Minnesota,97483,Central,PROD-00265,Furniture,Tables,Tables Model 745,490.8,2,0.0,35.22
+ORD-00266,2018-07-31,2018-08-03,Same Day,CUST-2075,Customer 511,Consumer,United States,Columbus,Ohio,13188,Central,PROD-00266,Furniture,Furnishings,Furnishings Model 996,210.43,4,0.0,22.99
+ORD-00267,2018-04-19,2018-04-21,Standard Class,CUST-2915,Customer 3405,Home Office,United States,Virginia Beach,Virginia,16765,East,PROD-00267,Office Supplies,Appliances,Appliances Model 291,321.42,4,0.2,71.62
+ORD-00268,2018-04-05,2018-04-07,Second Class,CUST-3053,Customer 4783,Corporate,United States,Grand Rapids,Michigan,61626,Central,PROD-00268,Technology,Copiers,Copiers Model 897,876.9,1,0.0,79.89
+ORD-00269,2018-05-14,2018-05-18,Standard Class,CUST-1589,Customer 1138,Consumer,United States,Austin,Texas,98707,Central,PROD-00269,Office Supplies,Storage,Storage Model 603,69.46,2,0.0,3.58
+ORD-00270,2018-03-25,2018-04-01,Second Class,CUST-3256,Customer 3915,Corporate,United States,Eugene,Oregon,20807,West,PROD-00270,Office Supplies,Storage,Storage Model 955,141.48,5,0.1,37.78
+ORD-00271,2018-11-06,2018-11-10,Standard Class,CUST-3305,Customer 3322,Consumer,United States,Cambridge,Massachusetts,20204,East,PROD-00271,Office Supplies,Binders,Binders Model 736,27.16,2,0.0,2.34
+ORD-00272,2018-05-23,2018-05-27,Second Class,CUST-2229,Customer 4667,Home Office,United States,Philadelphia,Pennsylvania,67944,East,PROD-00272,Furniture,Bookcases,Bookcases Model 540,617.02,4,0.2,122.18
+ORD-00273,2018-04-10,2018-04-15,First Class,CUST-2974,Customer 715,Consumer,United States,Phoenix,Arizona,52120,West,PROD-00273,Furniture,Chairs,Chairs Model 667,128.1,1,0.0,27.24
+ORD-00274,2018-06-04,2018-06-07,Same Day,CUST-3059,Customer 2287,Corporate,United States,Montgomery,Alabama,32658,South,PROD-00274,Technology,Accessories,Accessories Model 290,106.3,5,0.0,32.93
+ORD-00275,2018-05-13,2018-05-14,First Class,CUST-1949,Customer 2655,Consumer,United States,Boston,Massachusetts,47081,East,PROD-00275,Office Supplies,Appliances,Appliances Model 904,356.24,4,0.0,85.07
+ORD-00276,2018-05-07,2018-05-11,Same Day,CUST-3056,Customer 991,Consumer,United States,Dallas,Texas,44986,Central,PROD-00276,Technology,Copiers,Copiers Model 519,4210.0,5,0.1,1611.87
+ORD-00277,2018-04-19,2018-04-26,Second Class,CUST-3984,Customer 4430,Consumer,United States,Boston,Massachusetts,89322,East,PROD-00277,Furniture,Furnishings,Furnishings Model 807,185.98,3,0.0,25.44
+ORD-00278,2018-04-16,2018-04-18,First Class,CUST-3080,Customer 2161,Consumer,United States,Los Angeles,California,60304,West,PROD-00278,Technology,Machines,Machines Model 525,1249.0,2,0.0,204.49
+ORD-00279,2018-03-04,2018-03-08,Same Day,CUST-3008,Customer 4458,Consumer,United States,Atlanta,Georgia,75592,South,PROD-00279,Office Supplies,Storage,Storage Model 868,149.54,5,0.0,28.96
+ORD-00280,2018-09-06,2018-09-08,Standard Class,CUST-3588,Customer 2145,Consumer,United States,Houston,Texas,68548,Central,PROD-00280,Office Supplies,Storage,Storage Model 237,69.62,2,0.0,11.0
+ORD-00281,2018-06-30,2018-07-03,Second Class,CUST-2742,Customer 2064,Consumer,United States,Buffalo,New York,49986,East,PROD-00281,Office Supplies,Paper,Paper Model 842,13.87,2,0.2,4.39
+ORD-00282,2018-06-11,2018-06-12,Second Class,CUST-1387,Customer 2604,Consumer,United States,Tacoma,Washington,84095,West,PROD-00282,Technology,Phones,Phones Model 691,987.99,3,0.0,155.24
+ORD-00283,2018-05-12,2018-05-15,Standard Class,CUST-2252,Customer 1978,Consumer,United States,Boston,Massachusetts,98281,East,PROD-00283,Office Supplies,Binders,Binders Model 756,44.54,4,0.0,13.62
+ORD-00284,2018-03-28,2018-04-02,Standard Class,CUST-3688,Customer 376,Corporate,United States,San Francisco,California,76151,West,PROD-00284,Office Supplies,Appliances,Appliances Model 198,453.62,5,0.0,33.49
+ORD-00285,2018-04-07,2018-04-09,Same Day,CUST-2791,Customer 742,Consumer,United States,Grand Rapids,Michigan,83598,Central,PROD-00285,Technology,Copiers,Copiers Model 619,909.56,1,0.1,317.93
+ORD-00286,2018-03-08,2018-03-12,Second Class,CUST-2499,Customer 4486,Home Office,United States,Boston,Massachusetts,38214,East,PROD-00286,Technology,Accessories,Accessories Model 119,95.01,4,0.0,22.01
+ORD-00287,2018-04-13,2018-04-18,Same Day,CUST-1207,Customer 2668,Home Office,United States,Salem,Oregon,48745,West,PROD-00287,Office Supplies,Paper,Paper Model 989,26.21,3,0.0,1.77
+ORD-00288,2018-03-22,2018-03-29,Standard Class,CUST-2819,Customer 1241,Corporate,United States,Las Vegas,Nevada,52548,West,PROD-00288,Technology,Accessories,Accessories Model 142,24.93,1,0.1,4.89
+ORD-00289,2018-10-08,2018-10-10,Second Class,CUST-2781,Customer 3471,Consumer,United States,Orlando,Florida,20681,South,PROD-00289,Office Supplies,Paper,Paper Model 643,15.57,2,0.1,1.54
+ORD-00290,2018-07-25,2018-07-28,Standard Class,CUST-3605,Customer 4920,Home Office,United States,Tampa,Florida,16984,South,PROD-00290,Furniture,Tables,Tables Model 626,411.33,2,0.1,82.72
+ORD-00291,2018-05-26,2018-05-28,Same Day,CUST-3396,Customer 2368,Consumer,United States,Jersey City,New Jersey,37579,East,PROD-00291,Office Supplies,Binders,Binders Model 265,19.27,2,0.2,5.34
+ORD-00292,2018-04-02,2018-04-09,Same Day,CUST-1793,Customer 2244,Consumer,United States,Detroit,Michigan,64933,Central,PROD-00292,Technology,Phones,Phones Model 924,1864.33,6,0.0,739.91
+ORD-00293,2018-03-24,2018-03-31,Same Day,CUST-3282,Customer 3550,Consumer,United States,Henderson,Nevada,37399,West,PROD-00293,Technology,Phones,Phones Model 770,863.27,3,0.1,164.47
+ORD-00294,2018-05-09,2018-05-12,Second Class,CUST-2725,Customer 418,Corporate,United States,Spokane,Washington,41481,West,PROD-00294,Office Supplies,Storage,Storage Model 701,102.36,3,0.0,19.49
+ORD-00295,2018-07-29,2018-08-04,Standard Class,CUST-2006,Customer 607,Consumer,United States,Cleveland,Ohio,10944,Central,PROD-00295,Office Supplies,Appliances,Appliances Model 937,528.97,6,0.0,141.49
+ORD-00296,2018-03-09,2018-03-12,Standard Class,CUST-3785,Customer 568,Consumer,United States,Orlando,Florida,19114,South,PROD-00296,Furniture,Tables,Tables Model 227,426.65,2,0.1,65.82
+ORD-00297,2018-06-29,2018-07-03,Same Day,CUST-1942,Customer 544,Home Office,United States,Birmingham,Alabama,49846,South,PROD-00297,Technology,Copiers,Copiers Model 525,3844.35,4,0.0,1349.71
+ORD-00298,2018-04-12,2018-04-13,Same Day,CUST-2166,Customer 884,Home Office,United States,Rochester,Minnesota,93666,Central,PROD-00298,Technology,Accessories,Accessories Model 243,50.49,2,0.0,7.39
+ORD-00299,2018-04-21,2018-04-26,Same Day,CUST-3224,Customer 4799,Consumer,United States,Seattle,Washington,87848,West,PROD-00299,Office Supplies,Binders,Binders Model 515,42.99,4,0.0,8.38
+ORD-00300,2018-05-24,2018-05-25,Same Day,CUST-2678,Customer 1224,Consumer,United States,Columbus,Ohio,42596,Central,PROD-00300,Technology,Copiers,Copiers Model 195,761.65,1,0.2,120.52
+ORD-00301,2018-04-03,2018-04-09,First Class,CUST-1449,Customer 2894,Corporate,United States,New York City,New York,85287,East,PROD-00301,Technology,Phones,Phones Model 429,1344.18,5,0.1,63.69
+ORD-00302,2018-05-06,2018-05-11,First Class,CUST-1592,Customer 2069,Consumer,United States,Springfield,Illinois,16907,Central,PROD-00302,Office Supplies,Paper,Paper Model 649,7.57,1,0.0,2.96
+ORD-00303,2018-03-31,2018-04-05,First Class,CUST-1082,Customer 3710,Consumer,United States,Los Angeles,California,38114,West,PROD-00303,Furniture,Tables,Tables Model 780,352.75,2,0.2,73.12
+ORD-00304,2018-04-16,2018-04-17,Same Day,CUST-3183,Customer 1787,Consumer,United States,Detroit,Michigan,35009,Central,PROD-00304,Office Supplies,Appliances,Appliances Model 409,322.63,4,0.2,53.08
+ORD-00305,2018-07-14,2018-07-16,Same Day,CUST-3904,Customer 1458,Home Office,United States,Philadelphia,Pennsylvania,94846,East,PROD-00305,Office Supplies,Paper,Paper Model 380,14.14,2,0.0,4.15
+ORD-00306,2018-05-27,2018-05-29,Standard Class,CUST-2407,Customer 1915,Corporate,United States,Richmond,Virginia,60241,East,PROD-00306,Office Supplies,Binders,Binders Model 335,33.08,3,0.0,2.15
+ORD-00307,2018-07-14,2018-07-17,Second Class,CUST-2481,Customer 78,Corporate,United States,Raleigh,North Carolina,45725,South,PROD-00307,Office Supplies,Paper,Paper Model 801,13.85,2,0.0,4.59
+ORD-00308,2018-04-12,2018-04-13,Standard Class,CUST-3488,Customer 3614,Home Office,United States,Newark,New Jersey,28996,East,PROD-00308,Technology,Machines,Machines Model 152,2017.8,3,0.0,159.38
+ORD-00309,2018-06-30,2018-07-07,First Class,CUST-2080,Customer 1309,Consumer,United States,Spokane,Washington,16047,West,PROD-00309,Furniture,Furnishings,Furnishings Model 969,56.25,1,0.0,10.73
+ORD-00310,2018-02-28,2018-03-04,Standard Class,CUST-3745,Customer 648,Consumer,United States,Newark,New Jersey,38767,East,PROD-00310,Office Supplies,Binders,Binders Model 951,9.35,1,0.2,0.53
+ORD-00311,2018-05-24,2018-05-26,Same Day,CUST-1419,Customer 2188,Consumer,United States,Allentown,Pennsylvania,26347,East,PROD-00311,Office Supplies,Storage,Storage Model 940,77.93,2,0.0,18.33
+ORD-00312,2018-07-05,2018-07-08,First Class,CUST-1088,Customer 553,Consumer,United States,Pittsburgh,Pennsylvania,34102,East,PROD-00312,Office Supplies,Paper,Paper Model 575,15.26,2,0.1,1.87
+ORD-00313,2018-02-27,2018-03-02,First Class,CUST-3704,Customer 282,Consumer,United States,Pittsburgh,Pennsylvania,14263,East,PROD-00313,Office Supplies,Appliances,Appliances Model 639,80.79,1,0.0,12.17
+ORD-00314,2018-04-12,2018-04-16,Second Class,CUST-1215,Customer 1282,Corporate,United States,Orlando,Florida,77438,South,PROD-00314,Office Supplies,Paper,Paper Model 836,17.28,2,0.0,2.78
+ORD-00315,2018-05-24,2018-05-27,Second Class,CUST-2759,Customer 1847,Corporate,United States,Spokane,Washington,40540,West,PROD-00315,Furniture,Tables,Tables Model 251,505.65,2,0.0,33.22
+ORD-00316,2018-08-04,2018-08-11,First Class,CUST-3600,Customer 2488,Home Office,United States,Mobile,Alabama,85726,South,PROD-00316,Office Supplies,Storage,Storage Model 549,31.18,1,0.0,7.93
+ORD-00317,2018-04-16,2018-04-19,First Class,CUST-2521,Customer 2794,Consumer,United States,Columbus,Ohio,73769,Central,PROD-00317,Office Supplies,Appliances,Appliances Model 695,199.34,3,0.2,15.34
+ORD-00318,2018-06-27,2018-07-04,Standard Class,CUST-2718,Customer 3712,Corporate,United States,Tucson,Arizona,50843,West,PROD-00318,Furniture,Tables,Tables Model 660,957.95,4,0.0,262.2
+ORD-00319,2018-09-13,2018-09-19,First Class,CUST-3551,Customer 4200,Corporate,United States,Rochester,Minnesota,37690,Central,PROD-00319,Technology,Machines,Machines Model 354,605.64,1,0.0,215.13
+ORD-00320,2018-06-30,2018-07-02,Same Day,CUST-3747,Customer 4862,Consumer,United States,Eugene,Oregon,12994,West,PROD-00320,Office Supplies,Binders,Binders Model 562,31.64,3,0.1,11.57
+ORD-00321,2018-05-08,2018-05-15,Standard Class,CUST-3293,Customer 2777,Corporate,United States,Minneapolis,Minnesota,77546,Central,PROD-00321,Office Supplies,Binders,Binders Model 348,35.68,3,0.0,6.78
+ORD-00322,2018-06-15,2018-06-16,Same Day,CUST-2502,Customer 1597,Consumer,United States,Reno,Nevada,17377,West,PROD-00322,Technology,Accessories,Accessories Model 187,50.7,2,0.0,15.75
+ORD-00323,2018-04-15,2018-04-21,Same Day,CUST-1309,Customer 480,Consumer,United States,Mesa,Arizona,88572,West,PROD-00323,Furniture,Furnishings,Furnishings Model 657,155.1,3,0.0,38.41
+ORD-00324,2018-05-26,2018-05-29,Same Day,CUST-1231,Customer 3313,Consumer,United States,Miami,Florida,36467,South,PROD-00324,Furniture,Tables,Tables Model 619,473.86,2,0.0,121.13
+ORD-00325,2018-05-11,2018-05-17,First Class,CUST-1155,Customer 3219,Consumer,United States,Augusta,Georgia,10048,South,PROD-00325,Technology,Machines,Machines Model 761,1076.65,2,0.0,322.37
+ORD-00326,2018-06-13,2018-06-19,Second Class,CUST-2199,Customer 1964,Consumer,United States,Miami,Florida,46978,South,PROD-00326,Office Supplies,Appliances,Appliances Model 437,95.23,1,0.0,29.21
+ORD-00327,2018-04-25,2018-05-01,Second Class,CUST-3896,Customer 2143,Corporate,United States,Las Vegas,Nevada,57606,West,PROD-00327,Office Supplies,Storage,Storage Model 894,117.96,3,0.0,22.75
+ORD-00328,2018-06-17,2018-06-22,Same Day,CUST-1115,Customer 3899,Home Office,United States,Minneapolis,Minnesota,91574,Central,PROD-00328,Technology,Copiers,Copiers Model 370,2902.8,3,0.0,712.38
+ORD-00329,2018-04-25,2018-04-27,First Class,CUST-2414,Customer 2073,Corporate,United States,Spokane,Washington,83414,West,PROD-00329,Technology,Copiers,Copiers Model 742,1010.07,1,0.0,109.18
+ORD-00330,2018-07-24,2018-07-25,Standard Class,CUST-1311,Customer 1296,Corporate,United States,Henderson,Nevada,59222,West,PROD-00330,Technology,Accessories,Accessories Model 862,42.73,2,0.0,10.74
+ORD-00331,2018-04-30,2018-05-03,Same Day,CUST-1993,Customer 939,Consumer,United States,Paterson,New Jersey,58115,East,PROD-00331,Office Supplies,Storage,Storage Model 151,233.04,6,0.0,16.16
+ORD-00332,2018-02-15,2018-02-17,Standard Class,CUST-3348,Customer 762,Corporate,United States,Cincinnati,Ohio,99606,Central,PROD-00332,Office Supplies,Storage,Storage Model 752,57.86,2,0.1,9.46
+ORD-00333,2018-03-26,2018-03-30,Standard Class,CUST-2042,Customer 4750,Consumer,United States,Boston,Massachusetts,50647,East,PROD-00333,Office Supplies,Binders,Binders Model 516,24.75,2,0.0,1.83
+ORD-00334,2018-05-22,2018-05-24,First Class,CUST-3832,Customer 1670,Consumer,United States,Spokane,Washington,64607,West,PROD-00334,Furniture,Furnishings,Furnishings Model 464,255.26,5,0.0,67.51
+ORD-00335,2018-10-07,2018-10-14,First Class,CUST-1012,Customer 3863,Consumer,United States,Nashville,Tennessee,67410,South,PROD-00335,Office Supplies,Appliances,Appliances Model 328,212.48,3,0.2,26.95
+ORD-00336,2018-07-20,2018-07-24,Second Class,CUST-2428,Customer 2686,Consumer,United States,Norfolk,Virginia,31996,East,PROD-00336,Office Supplies,Storage,Storage Model 812,116.43,3,0.0,26.52
+ORD-00337,2018-02-10,2018-02-16,Second Class,CUST-3280,Customer 3900,Consumer,United States,Buffalo,New York,64921,East,PROD-00337,Technology,Machines,Machines Model 788,1718.75,4,0.2,309.48
+ORD-00338,2018-03-06,2018-03-07,First Class,CUST-3014,Customer 1932,Consumer,United States,Cambridge,Massachusetts,93697,East,PROD-00338,Office Supplies,Binders,Binders Model 716,52.25,4,0.0,10.9
+ORD-00339,2018-08-16,2018-08-22,Same Day,CUST-1730,Customer 3940,Consumer,United States,Savannah,Georgia,56022,South,PROD-00339,Office Supplies,Binders,Binders Model 388,27.1,2,0.0,4.53
+ORD-00340,2018-07-05,2018-07-12,Second Class,CUST-2302,Customer 1127,Home Office,United States,Tacoma,Washington,50148,West,PROD-00340,Office Supplies,Storage,Storage Model 306,62.15,2,0.1,10.47
+ORD-00341,2018-12-11,2018-12-14,Standard Class,CUST-2377,Customer 3298,Consumer,United States,Tucson,Arizona,77764,West,PROD-00341,Furniture,Chairs,Chairs Model 282,217.31,2,0.1,52.52
+ORD-00342,2018-04-23,2018-04-27,Same Day,CUST-3037,Customer 4671,Consumer,United States,Montgomery,Alabama,18888,South,PROD-00342,Furniture,Furnishings,Furnishings Model 826,285.4,5,0.0,40.96
+ORD-00343,2018-04-02,2018-04-07,Standard Class,CUST-3351,Customer 1204,Consumer,United States,Charlotte,North Carolina,98666,South,PROD-00343,Office Supplies,Paper,Paper Model 461,23.03,3,0.0,4.53
+ORD-00344,2018-05-25,2018-05-27,First Class,CUST-1541,Customer 4136,Corporate,United States,Phoenix,Arizona,49159,West,PROD-00344,Furniture,Furnishings,Furnishings Model 445,65.5,1,0.0,24.58
+ORD-00345,2018-04-22,2018-04-25,Standard Class,CUST-3518,Customer 3773,Consumer,United States,Naperville,Illinois,52197,Central,PROD-00345,Office Supplies,Paper,Paper Model 293,34.29,4,0.0,9.33
+ORD-00346,2018-08-07,2018-08-10,Same Day,CUST-3861,Customer 520,Consumer,United States,Grand Rapids,Michigan,94326,Central,PROD-00346,Technology,Copiers,Copiers Model 114,2088.86,2,0.0,538.67
+ORD-00347,2018-04-20,2018-04-21,First Class,CUST-1077,Customer 2284,Consumer,United States,Houston,Texas,34474,Central,PROD-00347,Technology,Accessories,Accessories Model 676,15.07,1,0.3,3.23
+ORD-00348,2018-05-04,2018-05-07,Same Day,CUST-1024,Customer 4559,Consumer,United States,Boston,Massachusetts,27333,East,PROD-00348,Office Supplies,Binders,Binders Model 309,21.32,2,0.0,5.51
+ORD-00349,2018-03-27,2018-03-28,Standard Class,CUST-2039,Customer 483,Consumer,United States,Miami,Florida,46355,South,PROD-00349,Furniture,Furnishings,Furnishings Model 474,125.55,2,0.0,39.68
+ORD-00350,2018-07-15,2018-07-16,Same Day,CUST-1676,Customer 2478,Consumer,United States,Tacoma,Washington,83903,West,PROD-00350,Technology,Accessories,Accessories Model 365,103.4,4,0.0,5.88
+ORD-00351,2018-03-30,2018-03-31,First Class,CUST-3573,Customer 3094,Consumer,United States,Mesa,Arizona,76258,West,PROD-00351,Technology,Machines,Machines Model 166,423.53,1,0.3,100.13
+ORD-00352,2018-06-18,2018-06-25,Standard Class,CUST-3395,Customer 343,Consumer,United States,Las Vegas,Nevada,41145,West,PROD-00352,Furniture,Bookcases,Bookcases Model 935,700.14,4,0.0,167.07
+ORD-00353,2018-10-28,2018-10-31,Standard Class,CUST-1172,Customer 1463,Consumer,United States,Pittsburgh,Pennsylvania,85675,East,PROD-00353,Technology,Copiers,Copiers Model 208,2844.2,3,0.0,625.83
+ORD-00354,2018-02-23,2018-03-02,Second Class,CUST-2893,Customer 1203,Corporate,United States,New York City,New York,59854,East,PROD-00354,Office Supplies,Binders,Binders Model 321,10.64,1,0.0,3.22
+ORD-00355,2018-09-19,2018-09-22,Second Class,CUST-3760,Customer 1622,Consumer,United States,Ann Arbor,Michigan,77664,Central,PROD-00355,Technology,Copiers,Copiers Model 565,6478.17,6,0.0,1089.86
+ORD-00356,2018-06-08,2018-06-10,Same Day,CUST-1489,Customer 2399,Consumer,United States,Jersey City,New Jersey,96153,East,PROD-00356,Technology,Accessories,Accessories Model 387,46.74,2,0.0,10.16
+ORD-00357,2018-03-20,2018-03-23,Second Class,CUST-2486,Customer 3597,Consumer,United States,Mesa,Arizona,45285,West,PROD-00357,Furniture,Bookcases,Bookcases Model 368,245.24,2,0.2,31.98
+ORD-00358,2018-05-28,2018-05-31,Second Class,CUST-3426,Customer 3536,Home Office,United States,San Francisco,California,27533,West,PROD-00358,Technology,Phones,Phones Model 901,584.43,2,0.1,115.12
+ORD-00359,2018-07-12,2018-07-13,Second Class,CUST-3420,Customer 2878,Consumer,United States,Allentown,Pennsylvania,42624,East,PROD-00359,Office Supplies,Appliances,Appliances Model 464,366.15,4,0.1,89.75
+ORD-00360,2018-04-05,2018-04-09,Second Class,CUST-1757,Customer 2391,Consumer,United States,Memphis,Tennessee,56996,South,PROD-00360,Technology,Machines,Machines Model 217,1047.77,2,0.0,231.52
+ORD-00361,2018-06-22,2018-06-24,First Class,CUST-3525,Customer 3352,Corporate,United States,Cambridge,Massachusetts,56947,East,PROD-00361,Office Supplies,Storage,Storage Model 489,34.53,1,0.1,6.49
+ORD-00362,2018-09-28,2018-10-02,First Class,CUST-3430,Customer 2914,Consumer,United States,Reno,Nevada,37956,West,PROD-00362,Technology,Accessories,Accessories Model 703,21.25,1,0.1,5.51
+ORD-00363,2018-04-20,2018-04-24,Second Class,CUST-1155,Customer 1190,Consumer,United States,Tucson,Arizona,61030,West,PROD-00363,Furniture,Chairs,Chairs Model 798,239.97,2,0.0,58.77
+ORD-00364,2018-03-27,2018-03-29,Same Day,CUST-1257,Customer 2341,Consumer,United States,Paterson,New Jersey,68597,East,PROD-00364,Office Supplies,Paper,Paper Model 175,31.6,4,0.0,3.85
+ORD-00365,2018-05-13,2018-05-14,First Class,CUST-2780,Customer 3581,Home Office,United States,Springfield,Massachusetts,52443,East,PROD-00365,Furniture,Chairs,Chairs Model 784,183.14,2,0.2,24.15
+ORD-00366,2018-05-24,2018-05-29,Second Class,CUST-1674,Customer 1604,Consumer,United States,Saint Paul,Minnesota,75464,Central,PROD-00366,Technology,Copiers,Copiers Model 372,1032.76,1,0.1,116.93
+ORD-00367,2018-08-12,2018-08-15,First Class,CUST-3116,Customer 3298,Corporate,United States,Raleigh,North Carolina,13952,South,PROD-00367,Technology,Phones,Phones Model 508,343.33,1,0.0,49.3
+ORD-00368,2018-05-11,2018-05-12,Standard Class,CUST-3392,Customer 598,Home Office,United States,Springfield,Massachusetts,66880,East,PROD-00368,Technology,Phones,Phones Model 893,608.4,2,0.1,99.84
+ORD-00369,2018-04-25,2018-05-02,First Class,CUST-1673,Customer 645,Consumer,United States,Cleveland,Ohio,62201,Central,PROD-00369,Technology,Copiers,Copiers Model 339,5621.79,5,0.0,1719.07
+ORD-00370,2018-03-26,2018-03-27,First Class,CUST-3439,Customer 4544,Consumer,United States,Grand Rapids,Michigan,52460,Central,PROD-00370,Furniture,Tables,Tables Model 619,546.91,2,0.0,54.05
+ORD-00371,2018-02-27,2018-03-03,Same Day,CUST-2473,Customer 2903,Consumer,United States,Savannah,Georgia,32796,South,PROD-00371,Office Supplies,Storage,Storage Model 713,175.68,6,0.1,48.65
+ORD-00372,2018-03-13,2018-03-20,First Class,CUST-1259,Customer 764,Consumer,United States,Los Angeles,California,41746,West,PROD-00372,Furniture,Chairs,Chairs Model 298,169.69,2,0.2,16.07
+ORD-00373,2018-03-13,2018-03-15,Same Day,CUST-1307,Customer 4831,Consumer,United States,Reno,Nevada,96785,West,PROD-00373,Furniture,Bookcases,Bookcases Model 122,194.06,1,0.0,75.04
+ORD-00374,2018-05-04,2018-05-05,Standard Class,CUST-2119,Customer 1643,Home Office,United States,Portland,Oregon,10015,West,PROD-00374,Furniture,Chairs,Chairs Model 302,446.48,4,0.0,43.95
+ORD-00375,2018-03-05,2018-03-06,Second Class,CUST-3998,Customer 2298,Corporate,United States,Naperville,Illinois,59757,Central,PROD-00375,Office Supplies,Storage,Storage Model 690,61.76,2,0.0,3.36
+ORD-00376,2018-05-17,2018-05-19,Same Day,CUST-1246,Customer 4697,Corporate,United States,Greensboro,North Carolina,35957,South,PROD-00376,Office Supplies,Appliances,Appliances Model 891,249.32,3,0.0,40.62
+ORD-00377,2018-10-25,2018-10-26,First Class,CUST-3781,Customer 2173,Consumer,United States,Newark,New Jersey,91541,East,PROD-00377,Furniture,Furnishings,Furnishings Model 654,398.71,6,0.0,82.53
+ORD-00378,2018-08-15,2018-08-19,First Class,CUST-2659,Customer 2161,Corporate,United States,Portland,Oregon,31292,West,PROD-00378,Furniture,Bookcases,Bookcases Model 642,153.5,1,0.0,9.97
+ORD-00379,2018-05-04,2018-05-05,Same Day,CUST-1187,Customer 3750,Home Office,United States,Savannah,Georgia,41876,South,PROD-00379,Furniture,Tables,Tables Model 316,240.09,1,0.0,53.79
+ORD-00380,2019-01-17,2019-01-20,Standard Class,CUST-2798,Customer 2923,Corporate,United States,Montgomery,Alabama,70727,South,PROD-00380,Technology,Phones,Phones Model 725,705.75,3,0.2,192.49
+ORD-00381,2018-05-24,2018-05-31,Second Class,CUST-1925,Customer 580,Consumer,United States,Miami,Florida,57046,South,PROD-00381,Technology,Machines,Machines Model 306,1016.28,2,0.2,67.35
+ORD-00382,2018-06-03,2018-06-09,First Class,CUST-1785,Customer 3805,Corporate,United States,Springfield,Illinois,24817,Central,PROD-00382,Technology,Accessories,Accessories Model 405,17.98,1,0.2,6.41
+ORD-00383,2018-05-11,2018-05-15,Standard Class,CUST-2596,Customer 4879,Consumer,United States,Mesa,Arizona,19759,West,PROD-00383,Office Supplies,Binders,Binders Model 667,12.19,1,0.1,1.85
+ORD-00384,2018-05-18,2018-05-20,Second Class,CUST-3456,Customer 2369,Consumer,United States,Naperville,Illinois,58432,Central,PROD-00384,Office Supplies,Appliances,Appliances Model 169,69.92,1,0.1,11.57
+ORD-00385,2018-04-18,2018-04-22,Second Class,CUST-2361,Customer 3933,Consumer,United States,Cincinnati,Ohio,16412,Central,PROD-00385,Technology,Machines,Machines Model 904,2628.24,4,0.0,427.17
+ORD-00386,2018-05-05,2018-05-08,First Class,CUST-1341,Customer 4628,Corporate,United States,Springfield,Massachusetts,67757,East,PROD-00386,Office Supplies,Storage,Storage Model 424,31.76,1,0.0,5.85
+ORD-00387,2018-09-19,2018-09-22,Same Day,CUST-1563,Customer 3361,Corporate,United States,San Francisco,California,30504,West,PROD-00387,Office Supplies,Binders,Binders Model 813,21.31,2,0.0,1.63
+ORD-00388,2018-08-26,2018-08-27,First Class,CUST-1651,Customer 4708,Consumer,United States,Austin,Texas,18507,Central,PROD-00388,Furniture,Tables,Tables Model 338,834.38,3,0.0,72.15
+ORD-00389,2018-02-14,2018-02-20,First Class,CUST-2194,Customer 1101,Consumer,United States,Virginia Beach,Virginia,31050,East,PROD-00389,Furniture,Tables,Tables Model 456,523.86,2,0.0,49.12
+ORD-00390,2018-03-09,2018-03-12,First Class,CUST-1069,Customer 1671,Consumer,United States,Minneapolis,Minnesota,14820,Central,PROD-00390,Office Supplies,Paper,Paper Model 530,7.3,1,0.0,1.42
+ORD-00391,2018-04-06,2018-04-08,Standard Class,CUST-2584,Customer 2221,Consumer,United States,Cleveland,Ohio,17835,Central,PROD-00391,Office Supplies,Binders,Binders Model 548,48.79,4,0.0,16.83
+ORD-00392,2018-07-29,2018-08-01,Same Day,CUST-3429,Customer 4971,Consumer,United States,Birmingham,Alabama,23587,South,PROD-00392,Office Supplies,Paper,Paper Model 415,7.98,1,0.0,2.37
+ORD-00393,2018-08-28,2018-08-31,Standard Class,CUST-3105,Customer 217,Consumer,United States,Philadelphia,Pennsylvania,67732,East,PROD-00393,Furniture,Tables,Tables Model 465,668.3,4,0.3,204.26
+ORD-00394,2018-07-12,2018-07-18,First Class,CUST-2301,Customer 376,Corporate,United States,Rochester,New York,61921,East,PROD-00394,Furniture,Tables,Tables Model 742,745.93,4,0.2,54.05
+ORD-00395,2018-03-20,2018-03-25,Same Day,CUST-3898,Customer 1610,Consumer,United States,Austin,Texas,55499,Central,PROD-00395,Technology,Copiers,Copiers Model 269,2128.34,2,0.0,312.69
+ORD-00396,2018-04-19,2018-04-24,Second Class,CUST-2123,Customer 4107,Consumer,United States,Tacoma,Washington,16840,West,PROD-00396,Furniture,Bookcases,Bookcases Model 736,362.87,2,0.0,47.62
+ORD-00397,2018-06-24,2018-06-25,Same Day,CUST-1916,Customer 3840,Consumer,United States,Grand Rapids,Michigan,75077,Central,PROD-00397,Office Supplies,Binders,Binders Model 812,24.66,2,0.1,1.97
+ORD-00398,2018-05-05,2018-05-08,First Class,CUST-3373,Customer 2940,Home Office,United States,Ann Arbor,Michigan,41440,Central,PROD-00398,Technology,Phones,Phones Model 705,554.28,2,0.0,116.68
+ORD-00399,2018-04-28,2018-05-01,Same Day,CUST-1461,Customer 4063,Corporate,United States,Richmond,Virginia,45183,East,PROD-00399,Furniture,Tables,Tables Model 111,984.62,4,0.1,218.85
+ORD-00400,2018-04-28,2018-04-29,Second Class,CUST-3227,Customer 1614,Corporate,United States,Tacoma,Washington,12389,West,PROD-00400,Furniture,Bookcases,Bookcases Model 280,735.87,4,0.0,267.16
+ORD-00401,2018-08-18,2018-08-20,Second Class,CUST-1844,Customer 3680,Consumer,United States,Mesa,Arizona,65076,West,PROD-00401,Office Supplies,Appliances,Appliances Model 919,110.15,2,0.3,36.7
+ORD-00402,2018-07-02,2018-07-07,Same Day,CUST-1574,Customer 4914,Consumer,United States,Eugene,Oregon,76299,West,PROD-00402,Office Supplies,Appliances,Appliances Model 921,282.49,3,0.0,90.22
+ORD-00403,2018-05-01,2018-05-02,Second Class,CUST-1119,Customer 1297,Consumer,United States,Savannah,Georgia,99461,South,PROD-00403,Office Supplies,Paper,Paper Model 585,38.2,5,0.0,2.87
+ORD-00404,2018-06-12,2018-06-15,Standard Class,CUST-3597,Customer 3997,Corporate,United States,Charlotte,North Carolina,49023,South,PROD-00404,Technology,Accessories,Accessories Model 724,111.51,5,0.1,34.52
+ORD-00405,2018-03-15,2018-03-17,Same Day,CUST-1646,Customer 4787,Home Office,United States,Naperville,Illinois,60029,Central,PROD-00405,Furniture,Bookcases,Bookcases Model 246,307.46,2,0.0,88.2
+ORD-00406,2018-04-19,2018-04-20,Second Class,CUST-2479,Customer 1156,Corporate,United States,Ann Arbor,Michigan,49941,Central,PROD-00406,Office Supplies,Storage,Storage Model 603,64.15,2,0.2,8.05
+ORD-00407,2018-08-08,2018-08-10,Second Class,CUST-3074,Customer 4880,Home Office,United States,Eugene,Oregon,98993,West,PROD-00407,Office Supplies,Storage,Storage Model 779,58.65,2,0.1,8.6
+ORD-00408,2018-03-03,2018-03-10,Same Day,CUST-2514,Customer 2367,Corporate,United States,Charlotte,North Carolina,63950,South,PROD-00408,Furniture,Chairs,Chairs Model 478,577.18,5,0.0,113.08
+ORD-00409,2018-07-03,2018-07-09,Standard Class,CUST-3032,Customer 2892,Consumer,United States,Rochester,Minnesota,96959,Central,PROD-00409,Office Supplies,Binders,Binders Model 924,11.36,1,0.1,0.95
+ORD-00410,2018-02-13,2018-02-20,Same Day,CUST-2032,Customer 1973,Home Office,United States,Chicago,Illinois,86054,Central,PROD-00410,Office Supplies,Paper,Paper Model 106,22.29,3,0.0,3.19
+ORD-00411,2018-10-09,2018-10-12,Second Class,CUST-1969,Customer 785,Consumer,United States,Montgomery,Alabama,75363,South,PROD-00411,Office Supplies,Binders,Binders Model 698,21.04,2,0.0,2.58
+ORD-00412,2018-04-18,2018-04-19,Same Day,CUST-3011,Customer 4493,Consumer,United States,Virginia Beach,Virginia,71742,East,PROD-00412,Furniture,Bookcases,Bookcases Model 622,331.75,2,0.1,51.81
+ORD-00413,2018-06-17,2018-06-20,Second Class,CUST-2540,Customer 1082,Consumer,United States,Charlotte,North Carolina,55215,South,PROD-00413,Office Supplies,Storage,Storage Model 225,65.51,2,0.0,13.0
+ORD-00414,2018-05-28,2018-05-31,First Class,CUST-3581,Customer 2034,Consumer,United States,Paterson,New Jersey,57857,East,PROD-00414,Office Supplies,Binders,Binders Model 948,66.54,6,0.1,20.34
+ORD-00415,2018-05-30,2018-06-05,Same Day,CUST-3197,Customer 1615,Consumer,United States,Tucson,Arizona,65476,West,PROD-00415,Technology,Machines,Machines Model 706,604.0,1,0.1,62.37
+ORD-00416,2018-06-10,2018-06-11,Same Day,CUST-2512,Customer 4556,Consumer,United States,Tucson,Arizona,38173,West,PROD-00416,Furniture,Tables,Tables Model 158,671.37,3,0.0,139.77
+ORD-00417,2018-02-25,2018-02-28,Second Class,CUST-2049,Customer 2417,Consumer,United States,Greensboro,North Carolina,19395,South,PROD-00417,Office Supplies,Appliances,Appliances Model 189,66.21,1,0.3,7.06
+ORD-00418,2018-06-01,2018-06-03,Second Class,CUST-1655,Customer 4642,Consumer,United States,Raleigh,North Carolina,69768,South,PROD-00418,Office Supplies,Paper,Paper Model 151,7.84,1,0.0,1.48
+ORD-00419,2018-05-09,2018-05-11,Second Class,CUST-2955,Customer 3654,Consumer,United States,Chicago,Illinois,94743,Central,PROD-00419,Technology,Machines,Machines Model 877,1215.63,2,0.0,106.03
+ORD-00420,2018-04-18,2018-04-23,Second Class,CUST-3993,Customer 497,Consumer,United States,Cleveland,Ohio,56229,Central,PROD-00420,Office Supplies,Binders,Binders Model 727,24.84,2,0.0,2.8
+ORD-00421,2018-04-06,2018-04-09,Same Day,CUST-1555,Customer 505,Consumer,United States,Cleveland,Ohio,36639,Central,PROD-00421,Office Supplies,Paper,Paper Model 786,15.85,2,0.0,1.17
+ORD-00422,2018-06-03,2018-06-06,Second Class,CUST-1425,Customer 3387,Consumer,United States,Greensboro,North Carolina,72583,South,PROD-00422,Technology,Accessories,Accessories Model 285,50.24,2,0.1,5.04
+ORD-00423,2018-03-27,2018-03-30,Same Day,CUST-1293,Customer 2209,Corporate,United States,Phoenix,Arizona,38924,West,PROD-00423,Technology,Accessories,Accessories Model 384,22.83,1,0.0,6.44
+ORD-00424,2018-08-06,2018-08-09,Standard Class,CUST-2209,Customer 4814,Corporate,United States,Salem,Oregon,82969,West,PROD-00424,Office Supplies,Storage,Storage Model 340,59.61,2,0.0,21.41
+ORD-00425,2018-06-22,2018-06-27,Same Day,CUST-3602,Customer 3217,Corporate,United States,Virginia Beach,Virginia,40104,East,PROD-00425,Office Supplies,Storage,Storage Model 952,140.22,5,0.1,23.07
+ORD-00426,2018-06-07,2018-06-13,Second Class,CUST-1431,Customer 3667,Corporate,United States,Grand Rapids,Michigan,47594,Central,PROD-00426,Technology,Machines,Machines Model 381,3234.55,5,0.0,852.23
+ORD-00427,2018-08-02,2018-08-09,Second Class,CUST-3652,Customer 1409,Consumer,United States,Rochester,Minnesota,13664,Central,PROD-00427,Technology,Phones,Phones Model 858,588.69,2,0.0,156.32
+ORD-00428,2018-02-21,2018-02-26,Standard Class,CUST-1317,Customer 4365,Corporate,United States,San Diego,California,20528,West,PROD-00428,Technology,Copiers,Copiers Model 889,3096.99,3,0.0,328.71
+ORD-00429,2018-03-14,2018-03-16,Same Day,CUST-1398,Customer 4078,Consumer,United States,Paterson,New Jersey,38190,East,PROD-00429,Office Supplies,Paper,Paper Model 432,30.73,5,0.2,4.68
+ORD-00430,2018-06-26,2018-06-30,Standard Class,CUST-2348,Customer 1478,Consumer,United States,Nashville,Tennessee,76033,South,PROD-00430,Furniture,Bookcases,Bookcases Model 772,159.92,1,0.2,51.76
+ORD-00431,2018-04-09,2018-04-12,Same Day,CUST-2589,Customer 4961,Corporate,United States,Virginia Beach,Virginia,71161,East,PROD-00431,Office Supplies,Binders,Binders Model 657,52.58,4,0.0,16.45
+ORD-00432,2018-04-14,2018-04-16,Second Class,CUST-1596,Customer 2398,Consumer,United States,Austin,Texas,83177,Central,PROD-00432,Technology,Copiers,Copiers Model 688,4238.6,5,0.2,397.06
+ORD-00433,2018-03-09,2018-03-15,Same Day,CUST-3594,Customer 110,Corporate,United States,Savannah,Georgia,80179,South,PROD-00433,Office Supplies,Paper,Paper Model 698,7.87,1,0.0,0.7
+ORD-00434,2018-03-27,2018-03-28,Second Class,CUST-3124,Customer 3555,Corporate,United States,Los Angeles,California,80592,West,PROD-00434,Office Supplies,Appliances,Appliances Model 219,95.84,1,0.0,33.79
+ORD-00435,2018-08-08,2018-08-15,Second Class,CUST-3913,Customer 650,Home Office,United States,New York City,New York,42899,East,PROD-00435,Technology,Accessories,Accessories Model 800,102.98,5,0.2,8.18
+ORD-00436,2018-06-24,2018-06-27,First Class,CUST-2944,Customer 1500,Home Office,United States,Detroit,Michigan,80979,Central,PROD-00436,Office Supplies,Binders,Binders Model 196,21.63,2,0.0,2.56
+ORD-00437,2018-06-02,2018-06-06,First Class,CUST-1916,Customer 596,Consumer,United States,Birmingham,Alabama,27241,South,PROD-00437,Technology,Machines,Machines Model 220,663.06,1,0.0,169.03
+ORD-00438,2018-04-16,2018-04-20,Same Day,CUST-3757,Customer 979,Consumer,United States,San Francisco,California,56211,West,PROD-00438,Office Supplies,Storage,Storage Model 665,56.0,2,0.1,18.06
+ORD-00439,2018-05-29,2018-06-04,Second Class,CUST-3534,Customer 731,Consumer,United States,Atlanta,Georgia,73472,South,PROD-00439,Office Supplies,Storage,Storage Model 784,70.25,2,0.1,6.61
+ORD-00440,2018-08-17,2018-08-21,Standard Class,CUST-3795,Customer 57,Consumer,United States,Philadelphia,Pennsylvania,84248,East,PROD-00440,Office Supplies,Storage,Storage Model 599,89.96,3,0.0,23.63
+ORD-00441,2018-04-10,2018-04-14,Second Class,CUST-2256,Customer 2244,Corporate,United States,San Diego,California,83757,West,PROD-00441,Technology,Machines,Machines Model 317,1643.94,3,0.1,435.93
+ORD-00442,2018-05-18,2018-05-19,Standard Class,CUST-3598,Customer 1702,Corporate,United States,Houston,Texas,41346,Central,PROD-00442,Furniture,Tables,Tables Model 486,1352.35,6,0.1,342.13
+ORD-00443,2018-10-16,2018-10-19,Same Day,CUST-1976,Customer 1287,Corporate,United States,Augusta,Georgia,91196,South,PROD-00443,Furniture,Furnishings,Furnishings Model 723,128.04,2,0.0,37.77
+ORD-00444,2018-07-11,2018-07-13,Same Day,CUST-2076,Customer 112,Consumer,United States,Newark,New Jersey,87124,East,PROD-00444,Technology,Machines,Machines Model 515,1050.47,2,0.0,123.31
+ORD-00445,2018-04-17,2018-04-22,Standard Class,CUST-3990,Customer 4807,Consumer,United States,Miami,Florida,52220,South,PROD-00445,Furniture,Chairs,Chairs Model 620,239.45,2,0.0,29.44
+ORD-00446,2018-07-04,2018-07-07,Standard Class,CUST-3967,Customer 1202,Consumer,United States,Austin,Texas,27942,Central,PROD-00446,Office Supplies,Appliances,Appliances Model 844,135.03,2,0.2,36.77
+ORD-00447,2018-03-02,2018-03-06,Second Class,CUST-2245,Customer 948,Consumer,United States,Las Vegas,Nevada,59167,West,PROD-00447,Office Supplies,Storage,Storage Model 449,31.5,1,0.0,8.06
+ORD-00448,2018-05-16,2018-05-17,Same Day,CUST-2452,Customer 4122,Home Office,United States,Cambridge,Massachusetts,46373,East,PROD-00448,Office Supplies,Paper,Paper Model 363,49.49,6,0.0,10.98
+ORD-00449,2018-07-04,2018-07-05,Second Class,CUST-2167,Customer 758,Consumer,United States,Orlando,Florida,77143,South,PROD-00449,Office Supplies,Paper,Paper Model 103,32.29,4,0.0,8.3
+ORD-00450,2018-06-16,2018-06-21,Standard Class,CUST-3029,Customer 3389,Consumer,United States,Newark,New Jersey,12016,East,PROD-00450,Furniture,Tables,Tables Model 682,403.43,2,0.2,116.34
+ORD-00451,2018-07-03,2018-07-04,First Class,CUST-1363,Customer 1842,Consumer,United States,San Francisco,California,79110,West,PROD-00451,Office Supplies,Storage,Storage Model 643,111.95,3,0.0,41.61
+ORD-00452,2018-07-21,2018-07-22,First Class,CUST-3430,Customer 3536,Corporate,United States,Salem,Oregon,56309,West,PROD-00452,Office Supplies,Storage,Storage Model 283,29.37,1,0.1,2.71
+ORD-00453,2018-06-21,2018-06-22,First Class,CUST-3319,Customer 2294,Corporate,United States,Nashville,Tennessee,17274,South,PROD-00453,Office Supplies,Storage,Storage Model 574,56.35,2,0.1,2.57
+ORD-00454,2018-06-19,2018-06-26,Standard Class,CUST-3346,Customer 1105,Consumer,United States,Minneapolis,Minnesota,25748,Central,PROD-00454,Furniture,Bookcases,Bookcases Model 886,610.07,3,0.0,159.56
+ORD-00455,2018-06-03,2018-06-08,Second Class,CUST-1234,Customer 662,Consumer,United States,Austin,Texas,30175,Central,PROD-00455,Office Supplies,Storage,Storage Model 912,67.78,2,0.0,5.91
+ORD-00456,2018-03-22,2018-03-25,Same Day,CUST-3623,Customer 909,Consumer,United States,Springfield,Massachusetts,21826,East,PROD-00456,Furniture,Furnishings,Furnishings Model 617,315.98,6,0.1,54.15
+ORD-00457,2018-08-08,2018-08-10,Standard Class,CUST-2732,Customer 4618,Consumer,United States,Ann Arbor,Michigan,93008,Central,PROD-00457,Office Supplies,Storage,Storage Model 932,118.99,3,0.0,43.52
+ORD-00458,2018-05-18,2018-05-20,First Class,CUST-1027,Customer 1857,Corporate,United States,Minneapolis,Minnesota,44129,Central,PROD-00458,Furniture,Bookcases,Bookcases Model 424,412.94,2,0.0,26.51
+ORD-00459,2018-07-08,2018-07-13,Second Class,CUST-2495,Customer 2312,Corporate,United States,Mobile,Alabama,80009,South,PROD-00459,Furniture,Bookcases,Bookcases Model 722,677.79,4,0.0,179.29
+ORD-00460,2018-07-30,2018-08-03,Same Day,CUST-1093,Customer 790,Consumer,United States,Augusta,Georgia,33490,South,PROD-00460,Technology,Copiers,Copiers Model 137,851.45,1,0.1,95.09
+ORD-00461,2018-04-20,2018-04-22,Same Day,CUST-3665,Customer 172,Consumer,United States,Pittsburgh,Pennsylvania,51435,East,PROD-00461,Office Supplies,Paper,Paper Model 259,15.72,2,0.1,2.52
+ORD-00462,2018-04-24,2018-04-26,Standard Class,CUST-1309,Customer 4361,Home Office,United States,Cleveland,Ohio,85017,Central,PROD-00462,Technology,Copiers,Copiers Model 756,1938.31,2,0.0,331.99
+ORD-00463,2018-05-01,2018-05-02,Standard Class,CUST-1052,Customer 1987,Consumer,United States,New York City,New York,18520,East,PROD-00463,Technology,Machines,Machines Model 367,947.42,2,0.3,108.37
+ORD-00464,2018-08-27,2018-08-31,Same Day,CUST-1319,Customer 1886,Corporate,United States,Reno,Nevada,93106,West,PROD-00464,Office Supplies,Appliances,Appliances Model 591,290.68,4,0.1,62.88
+ORD-00465,2018-03-31,2018-04-05,Same Day,CUST-2993,Customer 476,Consumer,United States,Eugene,Oregon,71877,West,PROD-00465,Furniture,Furnishings,Furnishings Model 272,107.24,2,0.0,9.26
+ORD-00466,2018-09-14,2018-09-16,First Class,CUST-1181,Customer 1050,Consumer,United States,Salem,Oregon,29798,West,PROD-00466,Office Supplies,Binders,Binders Model 122,49.49,4,0.0,18.22
+ORD-00467,2018-06-03,2018-06-04,Same Day,CUST-2593,Customer 4130,Consumer,United States,San Diego,California,64638,West,PROD-00467,Technology,Accessories,Accessories Model 237,84.5,3,0.0,7.66
+ORD-00468,2018-06-08,2018-06-09,Standard Class,CUST-3923,Customer 2312,Consumer,United States,Cleveland,Ohio,79072,Central,PROD-00468,Office Supplies,Storage,Storage Model 416,68.95,2,0.0,11.33
+ORD-00469,2018-07-25,2018-08-01,Second Class,CUST-1647,Customer 1162,Home Office,United States,Reno,Nevada,77309,West,PROD-00469,Furniture,Chairs,Chairs Model 357,465.17,4,0.1,39.73
+ORD-00470,2018-05-26,2018-05-28,First Class,CUST-2962,Customer 816,Consumer,United States,Dallas,Texas,39894,Central,PROD-00470,Office Supplies,Storage,Storage Model 747,37.93,1,0.0,12.36
+ORD-00471,2018-08-10,2018-08-15,First Class,CUST-2284,Customer 3767,Consumer,United States,Las Vegas,Nevada,72963,West,PROD-00471,Technology,Phones,Phones Model 224,290.45,1,0.1,82.15
+ORD-00472,2018-04-20,2018-04-24,Same Day,CUST-3245,Customer 2923,Consumer,United States,New York City,New York,64567,East,PROD-00472,Technology,Phones,Phones Model 168,430.53,2,0.2,131.09
+ORD-00473,2018-09-10,2018-09-13,Second Class,CUST-3693,Customer 754,Consumer,United States,Chicago,Illinois,45326,Central,PROD-00473,Furniture,Furnishings,Furnishings Model 933,120.01,2,0.0,16.9
+ORD-00474,2018-04-24,2018-04-26,First Class,CUST-3303,Customer 4662,Consumer,United States,Eugene,Oregon,65059,West,PROD-00474,Office Supplies,Appliances,Appliances Model 146,99.07,1,0.0,24.08
+ORD-00475,2018-09-14,2018-09-15,Standard Class,CUST-3025,Customer 462,Consumer,United States,Spokane,Washington,15079,West,PROD-00475,Furniture,Chairs,Chairs Model 514,401.35,3,0.0,84.96
+ORD-00476,2018-04-25,2018-04-29,Same Day,CUST-3780,Customer 3240,Corporate,United States,Detroit,Michigan,35838,Central,PROD-00476,Furniture,Furnishings,Furnishings Model 678,120.82,2,0.0,18.41
+ORD-00477,2018-05-03,2018-05-08,Standard Class,CUST-1336,Customer 2703,Consumer,United States,Phoenix,Arizona,97340,West,PROD-00477,Technology,Phones,Phones Model 458,544.84,2,0.1,88.85
+ORD-00478,2018-03-26,2018-03-30,Same Day,CUST-2577,Customer 81,Consumer,United States,Virginia Beach,Virginia,57109,East,PROD-00478,Furniture,Tables,Tables Model 512,1164.61,5,0.0,299.23
+ORD-00479,2018-04-06,2018-04-09,First Class,CUST-2526,Customer 2805,Home Office,United States,San Diego,California,95211,West,PROD-00479,Office Supplies,Appliances,Appliances Model 242,188.29,3,0.2,24.8
+ORD-00480,2018-05-18,2018-05-19,Same Day,CUST-1990,Customer 870,Consumer,United States,Birmingham,Alabama,35594,South,PROD-00480,Furniture,Furnishings,Furnishings Model 580,213.13,4,0.0,74.96
+ORD-00481,2018-06-05,2018-06-12,Second Class,CUST-3948,Customer 4695,Home Office,United States,Naperville,Illinois,52749,Central,PROD-00481,Technology,Machines,Machines Model 881,391.93,1,0.3,114.12
+ORD-00482,2018-08-02,2018-08-07,Standard Class,CUST-2279,Customer 807,Consumer,United States,Naperville,Illinois,46292,Central,PROD-00482,Technology,Accessories,Accessories Model 577,71.45,3,0.1,8.72
+ORD-00483,2018-05-07,2018-05-09,Second Class,CUST-1514,Customer 1935,Home Office,United States,Springfield,Illinois,84534,Central,PROD-00483,Office Supplies,Binders,Binders Model 415,38.83,4,0.2,2.21
+ORD-00484,2018-03-21,2018-03-28,Standard Class,CUST-3030,Customer 704,Corporate,United States,Cambridge,Massachusetts,89233,East,PROD-00484,Technology,Copiers,Copiers Model 169,2521.37,3,0.1,144.06
+ORD-00485,2018-06-16,2018-06-20,Standard Class,CUST-1242,Customer 2524,Corporate,United States,Tucson,Arizona,61818,West,PROD-00485,Furniture,Furnishings,Furnishings Model 118,202.8,3,0.0,71.62
+ORD-00486,2018-06-01,2018-06-05,Same Day,CUST-3197,Customer 2640,Home Office,United States,Chicago,Illinois,23429,Central,PROD-00486,Office Supplies,Binders,Binders Model 649,21.68,2,0.0,5.59
+ORD-00487,2018-06-24,2018-06-29,First Class,CUST-2734,Customer 4583,Consumer,United States,Newark,New Jersey,67748,East,PROD-00487,Office Supplies,Paper,Paper Model 875,7.03,1,0.0,2.36
+ORD-00488,2018-04-13,2018-04-19,First Class,CUST-3805,Customer 3910,Home Office,United States,Norfolk,Virginia,58807,East,PROD-00488,Furniture,Bookcases,Bookcases Model 706,227.78,2,0.3,35.32
+ORD-00489,2018-04-19,2018-04-23,Second Class,CUST-3668,Customer 4802,Consumer,United States,Springfield,Massachusetts,17140,East,PROD-00489,Office Supplies,Appliances,Appliances Model 881,149.78,2,0.2,17.98
+ORD-00490,2018-04-13,2018-04-14,Same Day,CUST-3501,Customer 1165,Consumer,United States,San Francisco,California,73226,West,PROD-00490,Technology,Accessories,Accessories Model 278,80.89,4,0.1,8.17
+ORD-00491,2018-08-21,2018-08-23,First Class,CUST-3260,Customer 620,Consumer,United States,Charlotte,North Carolina,24901,South,PROD-00491,Furniture,Tables,Tables Model 677,222.53,1,0.1,24.74
+ORD-00492,2018-09-11,2018-09-18,Standard Class,CUST-1668,Customer 3067,Consumer,United States,Allentown,Pennsylvania,98815,East,PROD-00492,Office Supplies,Storage,Storage Model 354,197.12,5,0.0,40.79
+ORD-00493,2018-04-17,2018-04-19,Standard Class,CUST-1594,Customer 4873,Consumer,United States,Salem,Oregon,38525,West,PROD-00493,Furniture,Chairs,Chairs Model 544,586.56,5,0.0,145.69
+ORD-00494,2018-04-18,2018-04-21,Same Day,CUST-3179,Customer 447,Consumer,United States,Norfolk,Virginia,30491,East,PROD-00494,Furniture,Furnishings,Furnishings Model 368,55.66,1,0.1,2.52
+ORD-00495,2018-07-05,2018-07-08,Second Class,CUST-3660,Customer 2338,Consumer,United States,Savannah,Georgia,78816,South,PROD-00495,Technology,Machines,Machines Model 387,1044.86,2,0.1,271.86
+ORD-00496,2018-09-24,2018-09-27,Same Day,CUST-1256,Customer 209,Corporate,United States,Richmond,Virginia,44980,East,PROD-00496,Office Supplies,Binders,Binders Model 537,41.72,4,0.2,9.54
+ORD-00497,2018-10-19,2018-10-23,Second Class,CUST-2503,Customer 2461,Corporate,United States,Henderson,Nevada,18078,West,PROD-00497,Office Supplies,Binders,Binders Model 602,63.76,5,0.0,8.77
+ORD-00498,2018-04-14,2018-04-21,Same Day,CUST-1561,Customer 3443,Consumer,United States,Houston,Texas,99521,Central,PROD-00498,Technology,Phones,Phones Model 237,580.42,2,0.1,155.55
+ORD-00499,2018-04-27,2018-04-29,Standard Class,CUST-3111,Customer 2712,Consumer,United States,Austin,Texas,58704,Central,PROD-00499,Furniture,Bookcases,Bookcases Model 139,355.19,2,0.0,89.74
+ORD-00500,2018-06-09,2018-06-10,Same Day,CUST-2335,Customer 2338,Consumer,United States,Salem,Oregon,26997,West,PROD-00500,Office Supplies,Storage,Storage Model 632,65.67,2,0.0,20.08
+ORD-00501,2018-06-12,2018-06-14,First Class,CUST-1407,Customer 1292,Consumer,United States,Portland,Oregon,89810,West,PROD-00501,Office Supplies,Appliances,Appliances Model 614,276.6,3,0.0,31.12
+ORD-00502,2018-05-09,2018-05-15,First Class,CUST-3850,Customer 2199,Consumer,United States,Portland,Oregon,10868,West,PROD-00502,Office Supplies,Storage,Storage Model 924,79.11,2,0.0,8.5
+ORD-00503,2018-04-05,2018-04-09,Same Day,CUST-2861,Customer 1401,Consumer,United States,Boston,Massachusetts,36398,East,PROD-00503,Technology,Accessories,Accessories Model 524,69.01,3,0.0,3.59
+ORD-00504,2018-05-18,2018-05-20,Second Class,CUST-3063,Customer 4951,Consumer,United States,Jersey City,New Jersey,91578,East,PROD-00504,Technology,Machines,Machines Model 447,630.7,1,0.0,124.02
+ORD-00505,2018-10-19,2018-10-25,Second Class,CUST-2711,Customer 2656,Home Office,United States,Henderson,Nevada,31246,West,PROD-00505,Office Supplies,Storage,Storage Model 982,38.72,1,0.0,1.94
+ORD-00506,2018-04-20,2018-04-26,Standard Class,CUST-1259,Customer 4013,Consumer,United States,Jersey City,New Jersey,30561,East,PROD-00506,Technology,Phones,Phones Model 991,528.61,2,0.0,63.29
+ORD-00507,2018-06-05,2018-06-11,Standard Class,CUST-1723,Customer 705,Consumer,United States,Las Vegas,Nevada,26254,West,PROD-00507,Furniture,Tables,Tables Model 629,466.79,2,0.1,34.93
+ORD-00508,2019-01-11,2019-01-18,Second Class,CUST-2283,Customer 826,Consumer,United States,Rochester,Minnesota,44512,Central,PROD-00508,Furniture,Chairs,Chairs Model 961,231.44,2,0.0,60.89
+ORD-00509,2018-04-19,2018-04-21,Same Day,CUST-1614,Customer 1005,Consumer,United States,Orlando,Florida,99532,South,PROD-00509,Furniture,Furnishings,Furnishings Model 531,135.46,2,0.0,23.47
+ORD-00510,2018-07-09,2018-07-14,Standard Class,CUST-2695,Customer 3461,Consumer,United States,Rochester,Minnesota,87395,Central,PROD-00510,Office Supplies,Binders,Binders Model 802,21.84,2,0.0,2.81
+ORD-00511,2018-10-25,2018-10-28,Second Class,CUST-2979,Customer 377,Corporate,United States,Jersey City,New Jersey,67865,East,PROD-00511,Office Supplies,Storage,Storage Model 481,36.7,1,0.0,13.41
+ORD-00512,2018-07-01,2018-07-07,Second Class,CUST-1813,Customer 973,Consumer,United States,Philadelphia,Pennsylvania,33580,East,PROD-00512,Office Supplies,Storage,Storage Model 997,69.98,2,0.1,10.52
+ORD-00513,2018-08-13,2018-08-18,Same Day,CUST-2787,Customer 4214,Consumer,United States,Montgomery,Alabama,80959,South,PROD-00513,Technology,Machines,Machines Model 757,3035.73,6,0.2,412.6
+ORD-00514,2018-07-20,2018-07-25,First Class,CUST-1331,Customer 3077,Home Office,United States,Mesa,Arizona,82144,West,PROD-00514,Office Supplies,Binders,Binders Model 370,21.25,2,0.0,3.23
+ORD-00515,2018-06-25,2018-06-29,Second Class,CUST-3213,Customer 444,Home Office,United States,Rochester,New York,52485,East,PROD-00515,Office Supplies,Appliances,Appliances Model 794,198.17,2,0.0,18.46
+ORD-00516,2018-09-08,2018-09-10,Standard Class,CUST-2217,Customer 755,Corporate,United States,Ann Arbor,Michigan,60621,Central,PROD-00516,Furniture,Chairs,Chairs Model 691,330.99,3,0.0,29.66
+ORD-00517,2018-07-06,2018-07-09,Same Day,CUST-2545,Customer 3605,Consumer,United States,Springfield,Illinois,60665,Central,PROD-00517,Furniture,Tables,Tables Model 463,1153.38,6,0.1,186.99
+ORD-00518,2018-05-10,2018-05-17,Same Day,CUST-2398,Customer 4736,Corporate,United States,Minneapolis,Minnesota,80412,Central,PROD-00518,Office Supplies,Storage,Storage Model 363,31.78,1,0.0,4.02
+ORD-00519,2018-05-30,2018-06-06,Same Day,CUST-1387,Customer 2172,Consumer,United States,Cambridge,Massachusetts,60603,East,PROD-00519,Office Supplies,Appliances,Appliances Model 209,263.16,3,0.1,40.85
+ORD-00520,2018-06-15,2018-06-16,First Class,CUST-2519,Customer 2706,Consumer,United States,Philadelphia,Pennsylvania,31038,East,PROD-00520,Technology,Accessories,Accessories Model 265,64.1,3,0.0,7.18
+ORD-00521,2018-04-27,2018-04-29,First Class,CUST-2818,Customer 3466,Consumer,United States,Nashville,Tennessee,24325,South,PROD-00521,Furniture,Tables,Tables Model 304,805.5,3,0.0,168.36
+ORD-00522,2018-06-02,2018-06-03,Standard Class,CUST-2818,Customer 2712,Consumer,United States,Newark,New Jersey,45892,East,PROD-00522,Furniture,Furnishings,Furnishings Model 979,65.81,1,0.0,10.26
+ORD-00523,2018-05-24,2018-05-29,Standard Class,CUST-2815,Customer 2408,Consumer,United States,Cincinnati,Ohio,11753,Central,PROD-00523,Office Supplies,Appliances,Appliances Model 272,220.61,3,0.2,24.28
+ORD-00524,2018-07-06,2018-07-12,Same Day,CUST-3376,Customer 623,Consumer,United States,Rochester,Minnesota,27996,Central,PROD-00524,Furniture,Tables,Tables Model 632,199.44,1,0.2,52.02
+ORD-00525,2018-11-29,2018-12-01,Standard Class,CUST-2516,Customer 1724,Home Office,United States,Cincinnati,Ohio,78811,Central,PROD-00525,Furniture,Chairs,Chairs Model 432,361.41,3,0.1,38.17
+ORD-00526,2018-06-06,2018-06-09,Second Class,CUST-2241,Customer 3323,Home Office,United States,Tucson,Arizona,84283,West,PROD-00526,Technology,Accessories,Accessories Model 602,74.52,3,0.0,9.76
+ORD-00527,2018-09-27,2018-10-03,First Class,CUST-1320,Customer 1920,Corporate,United States,Paterson,New Jersey,55211,East,PROD-00527,Furniture,Furnishings,Furnishings Model 294,58.11,1,0.0,17.62
+ORD-00528,2018-07-03,2018-07-08,Same Day,CUST-1399,Customer 919,Consumer,United States,Grand Rapids,Michigan,72820,Central,PROD-00528,Office Supplies,Paper,Paper Model 637,28.21,4,0.1,7.27
+ORD-00529,2018-06-02,2018-06-05,Same Day,CUST-2915,Customer 4216,Home Office,United States,Augusta,Georgia,10824,South,PROD-00529,Office Supplies,Binders,Binders Model 495,10.64,1,0.0,1.95
+ORD-00530,2018-04-24,2018-04-28,Second Class,CUST-1105,Customer 582,Consumer,United States,Knoxville,Tennessee,23880,South,PROD-00530,Furniture,Bookcases,Bookcases Model 166,821.94,4,0.0,110.17
+ORD-00531,2018-06-02,2018-06-05,Second Class,CUST-1696,Customer 3882,Corporate,United States,New York City,New York,76617,East,PROD-00531,Office Supplies,Storage,Storage Model 241,61.94,2,0.2,15.14
+ORD-00532,2018-05-29,2018-05-31,Second Class,CUST-1330,Customer 1687,Consumer,United States,New York City,New York,21517,East,PROD-00532,Technology,Accessories,Accessories Model 772,26.71,1,0.0,7.47
+ORD-00533,2018-04-10,2018-04-14,Second Class,CUST-1660,Customer 3910,Corporate,United States,Miami,Florida,31683,South,PROD-00533,Office Supplies,Binders,Binders Model 563,10.64,1,0.0,2.26
+ORD-00534,2018-04-17,2018-04-21,Same Day,CUST-3647,Customer 2000,Consumer,United States,Saint Paul,Minnesota,26876,Central,PROD-00534,Technology,Copiers,Copiers Model 596,3890.24,5,0.1,840.12
+ORD-00535,2018-06-15,2018-06-21,First Class,CUST-1821,Customer 2712,Home Office,United States,Raleigh,North Carolina,66354,South,PROD-00535,Furniture,Tables,Tables Model 502,196.23,1,0.3,76.11
+ORD-00536,2018-09-25,2018-09-29,First Class,CUST-2973,Customer 401,Home Office,United States,Allentown,Pennsylvania,83802,East,PROD-00536,Technology,Accessories,Accessories Model 649,16.34,1,0.3,1.17
+ORD-00537,2018-05-16,2018-05-21,Second Class,CUST-3689,Customer 3649,Consumer,United States,Grand Rapids,Michigan,86719,Central,PROD-00537,Furniture,Chairs,Chairs Model 577,268.35,2,0.0,76.23
+ORD-00538,2018-03-07,2018-03-09,Standard Class,CUST-2794,Customer 2629,Consumer,United States,Rochester,Minnesota,96602,Central,PROD-00538,Office Supplies,Appliances,Appliances Model 522,224.34,3,0.1,45.85
+ORD-00539,2018-02-10,2018-02-13,Same Day,CUST-3362,Customer 1657,Home Office,United States,Naperville,Illinois,88413,Central,PROD-00539,Office Supplies,Paper,Paper Model 769,14.26,2,0.1,0.77
+ORD-00540,2018-03-25,2018-03-26,First Class,CUST-1462,Customer 621,Consumer,United States,San Francisco,California,19982,West,PROD-00540,Technology,Machines,Machines Model 769,494.99,1,0.2,49.61
+ORD-00541,2018-07-11,2018-07-13,Second Class,CUST-2608,Customer 247,Home Office,United States,Virginia Beach,Virginia,84504,East,PROD-00541,Office Supplies,Appliances,Appliances Model 940,154.02,2,0.0,47.02
+ORD-00542,2018-03-14,2018-03-19,Standard Class,CUST-3534,Customer 3340,Consumer,United States,Houston,Texas,36598,Central,PROD-00542,Furniture,Bookcases,Bookcases Model 320,174.51,1,0.1,40.36
+ORD-00543,2018-07-24,2018-07-31,Standard Class,CUST-2676,Customer 3011,Consumer,United States,Pittsburgh,Pennsylvania,24639,East,PROD-00543,Furniture,Furnishings,Furnishings Model 368,64.57,1,0.0,9.16
+ORD-00544,2018-07-06,2018-07-07,Second Class,CUST-3458,Customer 4720,Consumer,United States,Phoenix,Arizona,80210,West,PROD-00544,Technology,Phones,Phones Model 652,651.11,2,0.0,212.67
+ORD-00545,2018-05-14,2018-05-17,Same Day,CUST-3075,Customer 2369,Consumer,United States,Birmingham,Alabama,79852,South,PROD-00545,Office Supplies,Storage,Storage Model 293,88.71,3,0.2,21.13
+ORD-00546,2018-03-04,2018-03-10,First Class,CUST-1271,Customer 3995,Corporate,United States,Spokane,Washington,19695,West,PROD-00546,Technology,Copiers,Copiers Model 311,931.95,1,0.0,202.31
+ORD-00547,2018-04-10,2018-04-12,Standard Class,CUST-3734,Customer 1840,Consumer,United States,Greensboro,North Carolina,58582,South,PROD-00547,Furniture,Bookcases,Bookcases Model 348,385.43,2,0.0,70.83
+ORD-00548,2018-05-05,2018-05-09,First Class,CUST-3549,Customer 2904,Consumer,United States,Allentown,Pennsylvania,41094,East,PROD-00548,Office Supplies,Paper,Paper Model 898,15.54,2,0.0,3.85
+ORD-00549,2018-06-14,2018-06-19,First Class,CUST-1385,Customer 4396,Consumer,United States,Springfield,Illinois,70635,Central,PROD-00549,Furniture,Tables,Tables Model 774,1034.3,6,0.2,201.21
+ORD-00550,2018-03-15,2018-03-19,Standard Class,CUST-1060,Customer 4499,Consumer,United States,Savannah,Georgia,32187,South,PROD-00550,Technology,Machines,Machines Model 601,3019.91,5,0.0,474.57
+ORD-00551,2018-09-13,2018-09-15,Second Class,CUST-2131,Customer 3692,Home Office,United States,Paterson,New Jersey,11214,East,PROD-00551,Office Supplies,Storage,Storage Model 247,110.53,4,0.2,25.05
+ORD-00552,2018-06-13,2018-06-16,Standard Class,CUST-1220,Customer 3842,Home Office,United States,Philadelphia,Pennsylvania,33940,East,PROD-00552,Technology,Copiers,Copiers Model 951,1026.75,1,0.0,248.68
+ORD-00553,2018-06-21,2018-06-26,Standard Class,CUST-2465,Customer 4349,Consumer,United States,Salem,Oregon,54406,West,PROD-00553,Office Supplies,Binders,Binders Model 565,11.02,1,0.0,3.03
+ORD-00554,2018-07-05,2018-07-09,Same Day,CUST-3819,Customer 1393,Corporate,United States,Buffalo,New York,53481,East,PROD-00554,Office Supplies,Appliances,Appliances Model 998,156.08,2,0.1,55.59
+ORD-00555,2018-09-03,2018-09-04,First Class,CUST-2907,Customer 3751,Corporate,United States,Ann Arbor,Michigan,25977,Central,PROD-00555,Office Supplies,Binders,Binders Model 756,17.88,2,0.2,3.27
+ORD-00556,2018-06-03,2018-06-08,Second Class,CUST-3612,Customer 4256,Consumer,United States,Nashville,Tennessee,54839,South,PROD-00556,Office Supplies,Appliances,Appliances Model 644,142.14,2,0.2,37.81
+ORD-00557,2018-07-11,2018-07-12,First Class,CUST-2596,Customer 3009,Home Office,United States,San Francisco,California,67874,West,PROD-00557,Technology,Machines,Machines Model 990,1901.29,4,0.1,129.56
+ORD-00558,2018-04-11,2018-04-16,Standard Class,CUST-3594,Customer 4301,Consumer,United States,Norfolk,Virginia,68414,East,PROD-00558,Technology,Accessories,Accessories Model 418,98.17,4,0.0,29.93
+ORD-00559,2018-10-20,2018-10-22,Second Class,CUST-1096,Customer 3339,Consumer,United States,Spokane,Washington,35538,West,PROD-00559,Technology,Accessories,Accessories Model 185,109.04,4,0.0,14.71
+ORD-00560,2018-05-29,2018-06-05,Second Class,CUST-1989,Customer 3515,Home Office,United States,Grand Rapids,Michigan,66241,Central,PROD-00560,Technology,Phones,Phones Model 862,548.4,2,0.1,82.23
+ORD-00561,2018-04-11,2018-04-14,Second Class,CUST-2113,Customer 4954,Consumer,United States,Virginia Beach,Virginia,83501,East,PROD-00561,Office Supplies,Appliances,Appliances Model 627,305.48,3,0.0,14.48
+ORD-00562,2018-04-24,2018-04-26,Second Class,CUST-3876,Customer 760,Corporate,United States,Austin,Texas,85133,Central,PROD-00562,Office Supplies,Storage,Storage Model 893,62.04,2,0.1,10.83
+ORD-00563,2018-02-19,2018-02-20,Same Day,CUST-2946,Customer 2769,Home Office,United States,Cleveland,Ohio,70481,Central,PROD-00563,Technology,Accessories,Accessories Model 991,21.77,1,0.0,3.0
+ORD-00564,2018-04-23,2018-04-25,Second Class,CUST-3279,Customer 3089,Consumer,United States,Ann Arbor,Michigan,37740,Central,PROD-00564,Furniture,Bookcases,Bookcases Model 628,553.8,3,0.0,100.37
+ORD-00565,2018-02-04,2018-02-10,Standard Class,CUST-1968,Customer 2116,Home Office,United States,Richmond,Virginia,73328,East,PROD-00565,Technology,Phones,Phones Model 918,292.49,1,0.1,91.04
+ORD-00566,2018-07-17,2018-07-24,Same Day,CUST-3323,Customer 4229,Consumer,United States,Cincinnati,Ohio,82105,Central,PROD-00566,Technology,Accessories,Accessories Model 176,51.08,2,0.1,3.87
+ORD-00567,2018-06-19,2018-06-22,Standard Class,CUST-1246,Customer 1724,Consumer,United States,New York City,New York,60643,East,PROD-00567,Office Supplies,Paper,Paper Model 870,14.16,2,0.1,4.92
+ORD-00568,2018-03-28,2018-03-31,Standard Class,CUST-3159,Customer 2967,Corporate,United States,Paterson,New Jersey,21881,East,PROD-00568,Technology,Machines,Machines Model 846,1574.84,3,0.0,296.71
+ORD-00569,2018-05-17,2018-05-22,First Class,CUST-1234,Customer 430,Home Office,United States,Orlando,Florida,46996,South,PROD-00569,Office Supplies,Binders,Binders Model 767,47.18,4,0.1,9.25
+ORD-00570,2018-05-20,2018-05-26,Second Class,CUST-3465,Customer 2356,Consumer,United States,Springfield,Illinois,42177,Central,PROD-00570,Office Supplies,Appliances,Appliances Model 344,185.64,2,0.0,40.41
+ORD-00571,2018-03-19,2018-03-23,Second Class,CUST-3726,Customer 2460,Consumer,United States,Buffalo,New York,47177,East,PROD-00571,Furniture,Tables,Tables Model 721,1055.43,4,0.0,243.62
+ORD-00572,2018-05-07,2018-05-10,Standard Class,CUST-2152,Customer 4193,Corporate,United States,Boston,Massachusetts,76126,East,PROD-00572,Office Supplies,Binders,Binders Model 921,23.34,2,0.0,5.64
+ORD-00573,2018-05-22,2018-05-25,Second Class,CUST-2261,Customer 1719,Corporate,United States,Springfield,Massachusetts,66531,East,PROD-00573,Office Supplies,Paper,Paper Model 204,16.14,2,0.0,3.26
+ORD-00574,2018-05-05,2018-05-09,Same Day,CUST-1803,Customer 1266,Corporate,United States,Buffalo,New York,36119,East,PROD-00574,Office Supplies,Binders,Binders Model 988,30.91,3,0.0,2.3
+ORD-00575,2018-04-11,2018-04-12,First Class,CUST-3667,Customer 1309,Consumer,United States,Philadelphia,Pennsylvania,37915,East,PROD-00575,Technology,Accessories,Accessories Model 616,83.27,3,0.0,24.63
+ORD-00576,2018-03-26,2018-03-30,Second Class,CUST-3755,Customer 1051,Consumer,United States,New York City,New York,12708,East,PROD-00576,Technology,Copiers,Copiers Model 352,5359.98,6,0.1,446.16
+ORD-00577,2018-05-03,2018-05-06,Second Class,CUST-3899,Customer 3474,Consumer,United States,Mesa,Arizona,48749,West,PROD-00577,Furniture,Bookcases,Bookcases Model 845,205.05,1,0.0,23.71
+ORD-00578,2018-04-17,2018-04-22,Same Day,CUST-2418,Customer 2250,Corporate,United States,Detroit,Michigan,54989,Central,PROD-00578,Office Supplies,Appliances,Appliances Model 553,262.12,3,0.0,61.16
+ORD-00579,2018-06-30,2018-07-01,First Class,CUST-3523,Customer 2810,Consumer,United States,Saint Paul,Minnesota,32106,Central,PROD-00579,Technology,Copiers,Copiers Model 918,2258.68,3,0.2,297.66
+ORD-00580,2018-09-09,2018-09-13,Same Day,CUST-1655,Customer 2922,Consumer,United States,Chicago,Illinois,27131,Central,PROD-00580,Furniture,Tables,Tables Model 790,1314.58,5,0.0,352.86
+ORD-00581,2018-07-28,2018-07-31,Standard Class,CUST-3443,Customer 4677,Home Office,United States,Philadelphia,Pennsylvania,56553,East,PROD-00581,Furniture,Tables,Tables Model 883,203.48,1,0.1,32.36
+ORD-00582,2018-05-24,2018-05-28,Standard Class,CUST-1111,Customer 4042,Consumer,United States,Memphis,Tennessee,68144,South,PROD-00582,Furniture,Bookcases,Bookcases Model 692,735.56,4,0.0,158.11
+ORD-00583,2018-04-13,2018-04-14,Second Class,CUST-1090,Customer 2418,Home Office,United States,Charlotte,North Carolina,16553,South,PROD-00583,Office Supplies,Appliances,Appliances Model 966,259.98,3,0.0,18.34
+ORD-00584,2018-07-26,2018-07-30,First Class,CUST-1763,Customer 533,Corporate,United States,Miami,Florida,27881,South,PROD-00584,Furniture,Bookcases,Bookcases Model 922,371.31,2,0.1,80.1
+ORD-00585,2018-07-05,2018-07-09,Standard Class,CUST-2304,Customer 899,Corporate,United States,Charlotte,North Carolina,11379,South,PROD-00585,Technology,Phones,Phones Model 590,502.95,2,0.2,152.43
+ORD-00586,2018-09-01,2018-09-05,Same Day,CUST-2357,Customer 2655,Consumer,United States,Atlanta,Georgia,79306,South,PROD-00586,Office Supplies,Binders,Binders Model 182,20.69,2,0.0,0.93
+ORD-00587,2018-06-03,2018-06-07,Standard Class,CUST-3180,Customer 1470,Consumer,United States,San Francisco,California,29726,West,PROD-00587,Office Supplies,Binders,Binders Model 628,33.02,3,0.0,11.57
+ORD-00588,2018-10-13,2018-10-17,Standard Class,CUST-2037,Customer 2921,Corporate,United States,Newark,New Jersey,19088,East,PROD-00588,Furniture,Bookcases,Bookcases Model 372,814.2,4,0.0,149.21
+ORD-00589,2018-06-03,2018-06-09,Same Day,CUST-3505,Customer 1253,Corporate,United States,Grand Rapids,Michigan,44314,Central,PROD-00589,Office Supplies,Storage,Storage Model 811,111.15,3,0.0,12.46
+ORD-00590,2018-04-12,2018-04-14,Second Class,CUST-2465,Customer 770,Corporate,United States,Detroit,Michigan,65041,Central,PROD-00590,Office Supplies,Storage,Storage Model 990,110.59,3,0.0,20.39
+ORD-00591,2018-04-21,2018-04-27,First Class,CUST-1098,Customer 834,Consumer,United States,Minneapolis,Minnesota,26350,Central,PROD-00591,Technology,Phones,Phones Model 465,466.67,2,0.2,81.15
+ORD-00592,2018-06-26,2018-06-29,Second Class,CUST-2144,Customer 2210,Corporate,United States,Los Angeles,California,91397,West,PROD-00592,Technology,Machines,Machines Model 739,470.67,1,0.2,102.99
+ORD-00593,2018-04-17,2018-04-18,Same Day,CUST-1293,Customer 4650,Corporate,United States,Newark,New Jersey,89509,East,PROD-00593,Office Supplies,Paper,Paper Model 500,6.5,1,0.1,0.36
+ORD-00594,2018-10-12,2018-10-13,Standard Class,CUST-2840,Customer 3425,Corporate,United States,San Francisco,California,27769,West,PROD-00594,Technology,Copiers,Copiers Model 397,1920.2,2,0.0,587.05
+ORD-00595,2018-06-20,2018-06-22,First Class,CUST-2735,Customer 1092,Corporate,United States,Memphis,Tennessee,57249,South,PROD-00595,Technology,Machines,Machines Model 370,1083.47,2,0.2,96.44
+ORD-00596,2018-05-23,2018-05-28,Second Class,CUST-2025,Customer 1197,Corporate,United States,Dallas,Texas,92862,Central,PROD-00596,Technology,Accessories,Accessories Model 185,21.49,1,0.1,2.88
+ORD-00597,2018-05-28,2018-06-02,Same Day,CUST-3620,Customer 3915,Corporate,United States,Henderson,Nevada,56365,West,PROD-00597,Furniture,Tables,Tables Model 864,488.51,2,0.0,71.09
+ORD-00598,2018-05-04,2018-05-09,Standard Class,CUST-3298,Customer 1661,Consumer,United States,Philadelphia,Pennsylvania,60185,East,PROD-00598,Furniture,Tables,Tables Model 168,513.56,2,0.0,119.04
+ORD-00599,2018-02-27,2018-03-02,Standard Class,CUST-1652,Customer 4655,Consumer,United States,Seattle,Washington,12786,West,PROD-00599,Furniture,Furnishings,Furnishings Model 283,105.66,2,0.0,5.08
+ORD-00600,2018-04-21,2018-04-24,Second Class,CUST-3197,Customer 261,Consumer,United States,Orlando,Florida,11620,South,PROD-00600,Office Supplies,Appliances,Appliances Model 392,154.32,2,0.0,24.7
