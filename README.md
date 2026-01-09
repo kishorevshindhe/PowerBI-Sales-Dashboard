@@ -1,6 +1,6 @@
-# Power BI Sales Dashboard
+# Power BI Sales Dashboard 
 
-## Project Overview
+ ## Project Overview
 This project is an interactive sales dashboard created using Microsoft Power BI.
 It analyzes sales, profit, orders, and customer segments to provide business insights.
 
@@ -9,7 +9,7 @@ It analyzes sales, profit, orders, and customer segments to provide business ins
 - Identify top-performing regions and categories
 - Provide interactive filters for better decision-making
 
-## 🛠 Tools Used
+##  Tools Used
 - Microsoft Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Superstore Sales Dataset (CSV)
@@ -25,7 +25,7 @@ It analyzes sales, profit, orders, and customer segments to provide business ins
 - `Dataset/superstore_mini.csv` → Dataset used
 - `Report/Internship_Report.pdf` → Project documentation
 
-## ▶ How to View Dashboard
+##  How to View Dashboard
 1. Download `Dashboard.pbix`
 2. Open with **Microsoft Power BI Desktop**
 
